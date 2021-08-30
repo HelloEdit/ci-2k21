@@ -1,6 +1,6 @@
 ---
-title: La vie associative de l'ESIEE Paris
-breadcrumb: La vie associative
+title: La vie associative de l'ESIEE Paris 
+breadcrumb: La vie associative 
 description: Parce qu'étudier c'est bien, mais s'amuser c'est mieux.
 ---
 
@@ -17,9 +17,12 @@ veut donc dire que vous avez accès à toutes les structures de l'université co
 santé et surtout aux fêtes communes que le BDE veut pousser cette année ! Vous pourrez
 trouver [plus d'informations sur le site dédié](https://livretdaccueil.univ-gustave-eiffel.fr).
 
-## Le Bureau des Étudiants
+## Les associations
 
-Cette année vous aurez la chance d'avoir les dieux grecs avec vous : Xanthos est le BDE du mandat 2021-2022 remplace le
+### Le Bureau des Étudiants (BDE)
+
+Cette année vous aurez la chance d'avoir les dieux grecs avec vous : **Xanthos** est le BDE du mandat 2021-2022 remplace
+le
 ~~regretté~~ Nova qui aura officié durant l'épidémie. A l'ESIEE Paris, le BDE est le principal organe de représentation
 des étudiants dans l’école.
 
@@ -29,26 +32,16 @@ Sa mission est triple :
 - Faire vivre l’école en organisant des activités extra-scolaires (soirées, sorties culturelles et sportives).
 - Être le principal interlocuteur entre l’administration et les élèves.
 
-## Le Bureau Des Sports
-
-Le BDS est un relais entre les étudiants de l’ESIEE Paris et le service des sports, il prend en charges plus d'une
-trentaine de sports en organisant tout ce qui concernent la vie sportive à l’ESIEE. Il organise et communique sur les
-événements auxquels l'ESIEE participe. De même, le BDS communique sur les réseaux sociaux les résultats de ses équipes
-aux quotidiens.
-
-## Les associations
-
-### ESIEE Sans Frontière
-
-ESIEE Sans Frontières est l'association humanitaire de l'ESIEE Paris. Cette association a pour but de mener des projets
-humanitaires en organisant des événements aux soirées de l'école, le Téléthon et plus encore...
+[Plus d'info](https://bde.esiee.fr/)
 
 ### ESIEESPACE
 
-Des fous d'électronique et de programmation, ils fabriquent eux-mêmes ce dont ils ont besoin pour créer sumo-bots,
-fusées et tous autres gadgets lumineux. Leurs tutos ne sont pas forcément clairs, mais on les aime quand même. Elle lieu
-de rendez-vous de toutes les personnes intéressées par l'électronique et met à disposition tout le matériel nécessaire
-aux projets de ses membres (imprimante 3D, matériel électronique, informatique, mécanique, etc).
+Des fous d'électronique et de programmation, ils fabriquent eux-mêmes ce dont ils ont besoin pour créer Sumobots, fusées
+et tous autres gadgets lumineux. Leurs tutos ne sont pas forcément clairs, mais on les aime quand même. Elle est le lieu
+de rendez-vous de toutes les personnes intéressées par l'électronique ou l'informatique et met à disposition tout le
+matériel nécessaire aux projets de ses membres (imprimante 3D, matériel électronique, informatique, mécanique, etc).
+
+[Plus d'info](https://esieespace.fr)
 
 ### Junior ESIEE
 
@@ -56,9 +49,23 @@ Des entrepreneurs actifs. Ils peuvent te confier des missions pour te faire un p
 apprendre de nouvelles choses. La Junior vous propose de réaliser des études (sites internet, projets électroniques,
 études de marché, business plans…) au service d'entreprises clientes en échange d'une rémunération.
 
+[Plus d'info](https://www.junioresiee.com/)
+
+### Le Bureau Des Sports (BDS)
+
+Le BDS est un relais entre les étudiants de l’ESIEE Paris et le service des sports, il prend en charges plus d'une
+trentaine de sports en organisant tout ce qui concernent la vie sportive à l’ESIEE. Il organise et communique sur les
+événements auxquels l'ESIEE participe. De même, le BDS communique sur les réseaux sociaux les résultats de ses équipes
+aux quotidiens.
+
 ## Les clubs
 
 Eh oui, à l'ESIEE on a une grande vie associative et de nombreux clubs de toutes les tailles et pour tous les goûts.
+
+### ESIEE Sans Frontière
+
+ESIEE Sans Frontières est l'association humanitaire de l'ESIEE Paris. Cette association a pour but de mener des projets
+humanitaires en organisant des événements aux soirées de l'école, le Téléthon et plus encore...
 
 ### ESIEE TV
 
@@ -88,6 +95,8 @@ disent, viens te péter le bide.
 Un Club pour apprendre ou jouer d'un instrument, découvrir des talents, avec des membres dynamiques, où il règne une
 ambiance de folie et où vous pouvez monter sur scène en moins d'un an : rejoignez le Club Musique !!!
 
+[Plus d'info](https://musique.edu.esiee.fr/)
+
 ### Club Chorale
 
 La chorale... Rien qu'au nom, on imagine déjà des gens bizarres qui chantent des trucs gospel chelous.. Et bien, ce
@@ -108,11 +117,14 @@ danse.... Rejoignez-nous !
 Le Club PC est un club mais surtout une bande de potes qui se réunit pour jouer, rigoler et accessoirement taffer (sisi
 je vous jure à l'ESIEE on taff un peu quand même) dans une ambiance conviviale un peu au dessus !
 
-### Club LAN
+### Club LAN (HFLAN)
 
 Le Club LAN organise 2 à 3 fois par an la HFLAN qui est une LAN Party BYOC. Axée sur les jeux League of Legends,
 StarCraft II, Super Smash Bros. Melee et Counter Strike : Global Offensive, la HFLAN compte chaque année plus de 200
-joueurs dont plusieurs top français, et une cinquantaine d'étudiants de l'ESIEE en staff.
+joueurs dont plusieurs top français, et une cinquantaine d'étudiants de l'ESIEE en staff, ce qui en fait l'un des plus
+gros tournois d'Île de France
+
+[Plus d'info](https://www.hf-lan.fr/)
 
 ### Club Strat'
 
@@ -132,11 +144,13 @@ connaissances dans le domaine, rejoins-nous !!!
 Le club Poker regroupe tous les passionnés de poker. Il organise régulièrement de grands tournois dans l'école pour tous
 les élèves de ESIEE Paris en plus des soirées hebdomadaires réservées aux membres du club.
 
-### Club NIX
+### Club*Nix
 
 Le club Nix réunit tous les amateurs de logiciels libres ou toute personne souhaitant apprendre à utiliser Linux. Nous
 sommes un club toujours ouvert, que ce soit pour discuter entre amis à la fin des cours ou pour travailler sur des
 projets de club.
+
+[Plus d'info](https://www.clubnix.fr/)
 
 ### Club Ciné
 
@@ -165,7 +179,7 @@ Le Club Soirées, nommé Fonzy, parce que Fonzy est COOL. C'est le club dédié 
 soirées qui se dérouleront tout au long de l'année dans l'école. Grâce à ce club, découvrez les coulisses d'une soirée
 étudiante ainsi que les plaisirs des soirées ESIEEnnes !
 
-### Club DJ
+### Club DJ (aka La sono)
 
 Platinistes, DJs ... se retrouvent chez La Sono. Avec du matériel professionnel et des soirées tous les mois, si vous
 êtes attirés par l'animation des événements de l'école, here we are and you're welcome !

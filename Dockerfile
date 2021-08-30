@@ -10,7 +10,7 @@ COPY --from=golang /hugo/hugo /usr/bin
 COPY . /src
 WORKDIR /src
 RUN npm install . && npm install . --only=dev && hugo mod get -u .
-RUN hugo 
+RUN hugo
 
 
 FROM httpd
