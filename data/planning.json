@@ -7,14 +7,6 @@
         "description": "Un petit moment à l'extérieur de l'ESIEE pour discutailler",
         "location": "Prairie",
         "color": "yellow",
-        "start_at": "18h",
-        "end_at": "19h"
-      },
-      {
-        "title": "Pique-nique",
-        "description": "Le nom est pas ouf mais ça va être lourd",
-        "location": "Prairie",
-        "color": "yellow",
         "start_at": "19h",
         "end_at": "19h30"
       },
@@ -62,7 +54,7 @@
         "description": "Votre performance de l'année !",
         "location": "Salles attribuées",
         "color": "indigo",
-        "start_at": "13h",
+        "start_at": "14h",
         "end_at": "17h"
       },
       {
@@ -212,7 +204,7 @@
         "group": "Groupe α"
       },
       {
-        "title": "Association show",
+        "title": "Présentation des assos",
         "description": "La présentation des associations de l'ESIEE Paris",
         "location": "Amphi.",
         "color": "indigo",
@@ -221,7 +213,7 @@
         "group": "Groupe β"
       },
       {
-        "title": "Association show",
+        "title": "Présentation des assos",
         "description": "La présentation des associations de l'ESIEE Paris",
         "location": "Amphi.",
         "color": "indigo",
