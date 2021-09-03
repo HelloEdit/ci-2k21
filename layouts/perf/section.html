@@ -56,12 +56,12 @@
                                             </div>
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap">
-                                            <div class="text-sm text-gray-900 font-semibold">{{ .subject }}</div>
+                                            <div class="text-sm text-gray-900 font-semibold capitalize">{{ .subject }}</div>
                                             <div class="text-sm text-gray-500">avec <span class="font-semibold">{{ .speaker }}</span></div>
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap">
                                             <span class="px-2 justify-center text-xl">
-                                              {{ .group }}
+                                              {{ index $.Site.Data.group .group  }}
                                             </span>
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap">

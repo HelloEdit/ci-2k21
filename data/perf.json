@@ -1,2102 +1,1920 @@
 [
   {
-    "name": "Keara Cummerata",
-    "room": 3180,
-    "subject": "Crimp",
-    "group": "♦️",
-    "speaker": "Toma Roche"
+    "name": "Romain JEANNE",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Marcellus Wyman",
-    "room": 2828,
-    "subject": "Marivaux",
-    "group": "♣️",
-    "speaker": "Laurine Catillon"
+    "name": "Oualid JERIDI",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Miss Monserrat Smith",
-    "room": 3432,
-    "subject": "Tchekhov",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
+    "name": "Anthony JIN",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Miss Carleton Mueller",
-    "room": 3269,
-    "subject": "Guitry",
-    "group": "♦️",
-    "speaker": "Camille Rémy"
+    "name": "Yusuf KAPLAN",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Kamille Wisoky",
-    "room": 3583,
-    "subject": "Vinaver",
-    "group": "♣️",
-    "speaker": "Laurine Catillon"
+    "name": "Basile KERESTEDJIAN",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Miss Annabelle Mueller",
-    "room": 2136,
-    "subject": "Feydeau",
-    "group": "♠️",
-    "speaker": "Enora Etrillard"
+    "name": "Dany KHA",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Burley Haag",
-    "room": 2291,
-    "subject": "Richter",
-    "group": "♥️",
-    "speaker": "Désirée Olmi"
+    "name": "Ilyès KHEROUAA",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Eleonore Kshlerin",
-    "room": 3330,
-    "subject": "Tchekhov",
-    "group": "♠️",
-    "speaker": "Blaise Buchbaum"
+    "name": "Mark Way KONG",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Kaden Beatty",
-    "room": 3753,
-    "subject": "Hugo",
-    "group": "♠️",
-    "speaker": "Tristan Rivière"
+    "name": "Hugo KOTHE",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Marguerite Luettgen",
-    "room": 2071,
-    "subject": "Feydeau",
-    "group": "♠️",
-    "speaker": "Enora Etrillard"
+    "name": "Cécile UNG",
+    "subject": "ANNE",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "spade"
   },
   {
-    "name": "Bettie Mraz DDS",
-    "room": 3800,
-    "subject": "Tchekhov",
-    "group": "♠️",
-    "speaker": "Tristan Rivière"
+    "name": "Maud FAILLY",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Laurel Ullrich",
-    "room": 2306,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Dominique Soula"
+    "name": "Chahine KHETIB",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Rebeca Cartwright",
-    "room": 3765,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Elsa Goulley"
+    "name": "Vladislav SENECHAL",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Karine Walker",
-    "room": 3006,
-    "subject": "Duras",
-    "group": "♣️",
-    "speaker": "Jérôme Imard"
+    "name": "Ludovic VIELLARD",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Juvenal Mayert",
-    "room": 3353,
-    "subject": "Richter",
-    "group": "♠️",
-    "speaker": "Elsa Goulley"
+    "name": "Tom VIGNAUD",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Anthony Wuckert",
-    "room": 3241,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Dominique Soula"
+    "name": "Olivier WANG",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Murray O'Keefe",
-    "room": 3890,
-    "subject": "Brecht",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
+    "name": "Baptiste XEMARD",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Freda Weissnat",
-    "room": 3576,
-    "subject": "Mouawad",
-    "group": "♥️",
-    "speaker": "Désirée Olmi"
+    "name": "Caull YANG",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "D'angelo Rippin",
-    "room": 2762,
-    "subject": "Navarro",
-    "group": "♥️",
-    "speaker": "Nelly Fantoni"
+    "name": "Samuel YANO-MPOYO",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Valerie Brakus",
-    "room": 3910,
-    "subject": "Crimp",
-    "group": "♠️",
-    "speaker": "Antoine Cafaro"
+    "name": "Romain YEROLYMOS",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Christelle Bernhard",
-    "room": 3523,
-    "subject": "Shakespeare",
-    "group": "♣️",
-    "speaker": "Diane Calma"
+    "name": "Adam ZEH",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Randal Beatty",
-    "room": 2865,
-    "subject": "Strindberg",
-    "group": "♣️",
-    "speaker": "Tristan Rivière"
+    "name": "Eric ZOU",
+    "subject": "BRECHT",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "club"
   },
   {
-    "name": "Dr. Carmen Johnston",
-    "room": 2805,
-    "subject": "Navarro",
-    "group": "♦️",
-    "speaker": "Catherine Lascault"
+    "name": "Kevin ABD EL MESSIH",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Maya Tromp MD",
-    "room": 3781,
-    "subject": "Navarro",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
+    "name": "Rémy ABDOUL MAZIDOU",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Jadon Friesen",
-    "room": 2274,
-    "subject": "Lagarce",
-    "group": "♠️",
-    "speaker": "Marine Tirouet"
+    "name": "Fahira ABDOULALIME",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Pablo Donnelly",
-    "room": 2434,
-    "subject": "Shakespeare",
-    "group": "♠️",
-    "speaker": "Laurine Catillon"
+    "name": "Eva ABDOULHAKIME",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Tristian Bartoletti",
-    "room": 2131,
-    "subject": "Anne",
-    "group": "♥️",
-    "speaker": "Marine Tirouet"
+    "name": "Jade ABID",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Earlene Schuster",
-    "room": 2408,
-    "subject": "Marivaux",
-    "group": "♦️",
-    "speaker": "Florence Tosi"
+    "name": "Yassin AHMED MOHAMED ALI",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Gregg Deckow",
-    "room": 3951,
-    "subject": "Lagarce",
-    "group": "♦️",
-    "speaker": "Anne Barlind"
+    "name": "Alexis ALVES",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Laverne Conn Jr.",
-    "room": 3812,
-    "subject": "Koltès",
-    "group": "♥️",
-    "speaker": "Mahaut Rabattu"
+    "name": "Nicolas ANGELI",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Emory Balistreri",
-    "room": 2682,
-    "subject": "Anne",
-    "group": "♠️",
-    "speaker": "Florence Tosi"
+    "name": "Julien ARCHAMBAULT",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Robin Gaylord",
-    "room": 3514,
-    "subject": "Marivaux",
-    "group": "♣️",
-    "speaker": "Denis Bouvier d’Yvoire"
+    "name": "Alperen ARIK",
+    "subject": "CRIMP",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "heart"
   },
   {
-    "name": "Craig Schowalter",
-    "room": 2515,
-    "subject": "Feydeau",
-    "group": "♥️",
-    "speaker": "Marine Tirouet"
+    "name": "Louis BATISSE",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
   },
   {
-    "name": "Kian Keeling",
+    "name": "Camille CARBASSE",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Khalid EL FTOUH",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Tristan GRIZON",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Arthur JOSSEAUME",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Galaad KUHN-BERNARD",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Romain LOUIS",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Yanis MALOU",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Hugo MARTIN",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Ajanan NAVENDRAN",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Thomas RIOTTE",
+    "subject": "DANIS",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "heart"
+  },
+  {
+    "name": "Lina BRAHMI",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Annabelle BROUET",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Viviane BUI",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Jonathan FOMENOU",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Arthur FORTIN",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Imad GAMOUH",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Pierre GERVAIS",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Valentin GIARDI",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Cédric GIBERT",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Nathan GILLOTIN",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Arsène GLASSON",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Omid GOLYANI",
+    "subject": "DURAS",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "spade"
+  },
+  {
+    "name": "Adel ABID",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Romain ALVES FERREIRA",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Ayman CHOUKAR",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Tilad CHRAITEH",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Ryad HAMZAOUI",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "William JODAR",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Yanis KARA",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Matéo LANGLET",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Julien LAVRARD-MEYER",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Meriam NAAS",
+    "subject": "FEYDEAU",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "heart"
+  },
+  {
+    "name": "Farah EL KADDOURI",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Sarah EL OUAFI",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Camille FAHY",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Arthur KALUKIN",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Tom LALIEU",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Dylan LE PLADEC",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Yacine LEBKIRI",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Nathan LECOIN",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "François LEHMANN-GRIMALDI",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Margot UTRERA",
+    "subject": "GOLDONI",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "spade"
+  },
+  {
+    "name": "Johan SENTHURAN",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Serge-Olivier SEUTCHEU TCHAMABE",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Kamil SINACEUR",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Simratpal SINGH",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Corentin SOULIGNAC--THOMINET",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Matthieu SOUSA FERREIRA",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Ugo STRIPPE",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Kader TANDIA",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Kézian TAPIE",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Michaël TASDEMIR",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Adnan TAZANI LOUMISSI",
+    "subject": "GUITRY",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "diamond"
+  },
+  {
+    "name": "Agathe GERBIER",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Taïssia GINOT",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Tiani HAPPI",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Jean-Antoine MARIANI",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Florian MARQUES",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Aurélien MARTY",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Nicolas MATIAS",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Raphaël MAUFROY",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Guillaume MECENE",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Soheil MERHI",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Selyan MEYER",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Méa VITTOT",
+    "subject": "HUGO",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "diamond"
+  },
+  {
+    "name": "Saif MOHAMMAD",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Louka MORANDI",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Esteban NABONNE",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Erwann NANOU",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Nicolas NASO",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Mikaël NAVARRE",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Cheikh N'DIAYE",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Calvin NGUYEN",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Tom NGUYEN",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Gaya OUCHENE",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Timothy OUPINDRIN",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Gauthier PAGET",
+    "subject": "KOLTES",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "diamond"
+  },
+  {
+    "name": "Lucie HARLET",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Charlotte HERNU",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Mathilde HOCDE",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Clément PAILLARD",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Luca PALAYSI",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Bastien PANVERT",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Rayan PAUL",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Happi PELAP",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Johan PETIT",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Son PHAM DANG",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Tan PHAM NGOC",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Damien PHILIPPE",
+    "subject": "LABICHE",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "diamond"
+  },
+  {
+    "name": "Alexian PLANCKE",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Matthieu POLY",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Cédric PRÉTET",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Jovan RAHME",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Théo REVELANT",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Baptiste RIBEYROL",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Arnaud RITOUX",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Julien ROAN",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Pierre-Louis ROIG",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Yann ROSCOULET",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Pierre VIE",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Selma ZINE-EDDINE",
+    "subject": "LAGARCE",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "diamond"
+  },
+  {
+    "name": "Anaelle MARIETTE",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Sophie PAN",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Alitina RATSIMBAZAFY",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Paul ROUFFI",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Achille ROUILLARD",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Baptiste ROZAN",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Lilian SAULOUP",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Quentin SAVITCH",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Kenny SAVIVANH",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Nathan SCHARFMANN",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Enzo SE CHAO",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Jordan SELLAM",
+    "subject": "MARIVAUX",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "diamond"
+  },
+  {
+    "name": "Ghali CHANNAWI",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Jéremy CHEN",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Lucas CLÉMENS",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Romain COLOMBIÉ",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Gaspard COULY",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Guillaume CURTIS",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Yassine DAVALI",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Dany DE MELO",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Martin DEGUEURCE",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Emilie TAUSKY",
+    "subject": "MOLIERE",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "club"
+  },
+  {
+    "name": "Tasnim CHARIFFOU",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Morgane CORNEAU",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Jeanne DUMOULIN",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Louis HAMEL",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Théo HAMON",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Kérien HARTWEG",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Jeremy HENG",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Nicolas HOUDART",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Yassine HOUMIR",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Hugo HUCHEDE",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Matthieu HULOT",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Gabriel JACQUEMIN",
+    "subject": "MOUAWAD",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "spade"
+  },
+  {
+    "name": "Brice ARMAND",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Gautier ARSON",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Aeven AUGUSTIN",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Antoine AVERLAND",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Yassine AZMI",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Matthieu AZZOUN",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Prince BAYA",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Matteo BEGHELLI",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Rayan BELDI",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Gémaël BELROSE",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Alexandre BERTHELOT",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Ana SERRA ALVES",
+    "subject": "NAVARRO",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "heart"
+  },
+  {
+    "name": "Raphael FAUCONNIER",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Manon GUIRAUD",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Mathilde GUYOT",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Aïssatou KEITA",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Juliette LEPROUST",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Lila RAZANI",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Manon REBIÈRE",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Baptiste RICHARD",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Clement SAINTE-ROSE",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Julie TESSON",
+    "subject": "POMMERAT",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "club"
+  },
+  {
+    "name": "Yasminah ALOUACHE--SAINZ",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Ambrine ARBAOUI",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Alexia BARBIER",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Florian BIGOTTEAU",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Baptiste BLANCHET",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Axel BLOIS",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Savio BOISSINOT",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Owen BRAUX",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Adam BRAVANT",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Dinh Thong BUI",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Erwan BUINO",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Lylian CARON",
+    "subject": "RICHTER",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "club"
+  },
+  {
+    "name": "Victor DUMANOIS",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Tony DUONG",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Lucas DUPLANT",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Thomas DURAND",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Ismaël EL HAIMADI",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Nathan EVRARD",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Kévin FACH",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Emile FANJUL",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Mathieu FARRE",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Terence FERNANDES",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Noé PAUMELLE",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Lily-Rose TONOLINI",
+    "subject": "SALES",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "heart"
+  },
+  {
+    "name": "Pauline ROCHER",
+    "subject": "SAND",
     "room": 3105,
-    "subject": "Koltès",
-    "group": "♥️",
-    "speaker": "Catherine Lascault"
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Cassidy Feil",
-    "room": 2986,
-    "subject": "Shakespeare",
-    "group": "♣️",
-    "speaker": "Benoît Lepecq"
+    "name": "Louise ROULAND",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Margret Barton",
-    "room": 3253,
-    "subject": "Duras",
-    "group": "♠️",
-    "speaker": "Elsa Goulley"
+    "name": "Inès SAADI",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Gregg Shields",
-    "room": 2646,
-    "subject": "Vinaver",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
+    "name": "Kim TESSIER",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "King Legros",
-    "room": 3314,
-    "subject": "Molière",
-    "group": "♦️",
-    "speaker": "Catherine Fourty"
+    "name": "Bilel TKITEK",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Garnet Kling",
-    "room": 3344,
-    "subject": "Vinaver",
-    "group": "♥️",
-    "speaker": "Toma Roche"
+    "name": "Amine TLAGHI",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Ara Nolan",
-    "room": 3198,
-    "subject": "Molière",
-    "group": "♥️",
-    "speaker": "Nelly Fantoni"
+    "name": "Mohamed-Ali TLILI",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Aubree Farrell",
-    "room": 2949,
-    "subject": "Lagarce",
-    "group": "♦️",
-    "speaker": "Blaise Buchbaum"
+    "name": "Titouan TONNELLIER",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Mara Rogahn",
-    "room": 2225,
-    "subject": "Anne",
-    "group": "♦️",
-    "speaker": "Catherine Fourty"
+    "name": "Ismail TORRES",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Annette Steuber",
-    "room": 3899,
-    "subject": "Richter",
-    "group": "♦️",
-    "speaker": "Madeleine Mainier"
+    "name": "Victor UNTEREINER",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Ms. Valerie Bechtelar",
-    "room": 3630,
-    "subject": "Strindberg",
-    "group": "♦️",
-    "speaker": "Jérôme Imard"
+    "name": "Chloé VIDIGUEIRA",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Alyce Doyle",
-    "room": 2510,
-    "subject": "Koltès",
-    "group": "♠️",
-    "speaker": "Marine Tirouet"
+    "name": "Lorenzo VIDY",
+    "subject": "SAND",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "club"
   },
   {
-    "name": "Dr. Mathias Eichmann",
-    "room": 2251,
-    "subject": "Labiche",
-    "group": "♠️",
-    "speaker": "Diane Calma"
+    "name": "Terence GOMEZ",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Elijah Moore",
-    "room": 3379,
-    "subject": "Sales",
-    "group": "♥️",
-    "speaker": "Catherine Fourty"
+    "name": "Thibault GOUGEON",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Dedric Prohaska I",
-    "room": 3421,
-    "subject": "Shakespeare",
-    "group": "♦️",
-    "speaker": "Laurine Catillon"
+    "name": "Louis GRANGE",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Omari Wiza",
-    "room": 3464,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Benoît Lepecq"
+    "name": "Maxence GREVET",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Ms. Elian McKenzie",
-    "room": 3260,
-    "subject": "Koltès",
-    "group": "♥️",
-    "speaker": "Désirée Olmi"
+    "name": "Alexandre GROSDIDIER",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Royce Greenholt Sr.",
-    "room": 3420,
-    "subject": "Koltès",
-    "group": "♠️",
-    "speaker": "Benoît Lepecq"
+    "name": "Hippolyte GUASP",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Matilde Blanda",
-    "room": 3765,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Ellen Thien Duc"
+    "name": "Ryan GUENAOUI",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Camille Crona",
-    "room": 3945,
-    "subject": "Navarro",
-    "group": "♦️",
-    "speaker": "Denis Bouvier d’Yvoire"
+    "name": "Amaury GUÉRIF",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Abigail Carroll",
-    "room": 2479,
-    "subject": "Richter",
-    "group": "♥️",
-    "speaker": "Désirée Olmi"
+    "name": "Yassine HACHMI",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Dorothy Hills",
-    "room": 2707,
-    "subject": "Guitry",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
+    "name": "Adam HADJEB",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Neil Rau",
-    "room": 3151,
-    "subject": "Danis",
-    "group": "♣️",
-    "speaker": "Camille Rémy"
+    "name": "Clarisse TUY",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Cruz Bauch",
-    "room": 3073,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Denis Bouvier d’Yvoire"
+    "name": "Minh Quang VU",
+    "subject": "SHAKESPEARE",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "spade"
   },
   {
-    "name": "Wyatt Shanahan",
-    "room": 3366,
-    "subject": "Goldoni",
-    "group": "♥️",
-    "speaker": "Blaise Buchbaum"
+    "name": "Ellinor BOISSELET",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Bernard Mante",
-    "room": 3968,
-    "subject": "Labiche",
-    "group": "♥️",
-    "speaker": "Benoît Lepecq"
+    "name": "Hadjer BOUCHAMA",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Amelie Toy",
-    "room": 3467,
-    "subject": "Anne",
-    "group": "♥️",
-    "speaker": "Blaise Buchbaum"
+    "name": "Pietro CAMPAGNA",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Emmitt Ondricka",
-    "room": 3058,
-    "subject": "Koltès",
-    "group": "♥️",
-    "speaker": "Benoît Lepecq"
+    "name": "Hadrien DEJONGHE",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Nola Schmeler",
-    "room": 3133,
-    "subject": "Shakespeare",
-    "group": "♣️",
-    "speaker": "Florence Tosi"
+    "name": "Danylo DEMBITSKYI",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Verner O'Hara",
-    "room": 3597,
-    "subject": "Richter",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
+    "name": "Amara DIARRA",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Otho Rice",
-    "room": 3841,
-    "subject": "Strindberg",
-    "group": "♣️",
-    "speaker": "Antoine Cafaro"
+    "name": "Alex DIAZ",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Sherwood Armstrong MD",
-    "room": 3138,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Laurine Catillon"
+    "name": "Bilal DIRIR",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Nelle Carter",
-    "room": 2633,
-    "subject": "Danis",
-    "group": "♥️",
-    "speaker": "Jérôme Imard"
+    "name": "Quentin DOMON",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Dr. Brittany Kuphal",
-    "room": 2777,
-    "subject": "Labiche",
-    "group": "♣️",
-    "speaker": "Catherine Lascault"
+    "name": "Pablo DOYNEL DE LA SAUSSERIE",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Courtney Doyle",
-    "room": 2961,
-    "subject": "Richter",
-    "group": "♣️",
-    "speaker": "Jérôme Imard"
+    "name": "Arthur DREUILHET",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Dr. Jacynthe Renner",
-    "room": 2104,
-    "subject": "Marivaux",
-    "group": "♦️",
-    "speaker": "Florence Tosi"
+    "name": "Leo DUBOS",
+    "subject": "STRINDBERG",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "heart"
   },
   {
-    "name": "Dr. Sydni Kiehn",
-    "room": 2719,
-    "subject": "Guitry",
-    "group": "♠️",
-    "speaker": "Florence Tosi"
+    "name": "Mosaab ABOUCHOUKAIR",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Miss Muriel Grimes",
-    "room": 2189,
-    "subject": "Navarro",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
+    "name": "Adam AMERZAG",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Desmond Cummings",
-    "room": 3454,
-    "subject": "Tchekhov",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
+    "name": "Ali ANTOSZCZYK",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Maggie Willms",
-    "room": 3979,
-    "subject": "Duras",
-    "group": "♥️",
-    "speaker": "Mahaut Rabattu"
+    "name": "Julien ARAB",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Marcellus McDermott",
-    "room": 2253,
-    "subject": "Duras",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
+    "name": "Louis CLECH",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Mariana Price",
-    "room": 2001,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Blaise Buchbaum"
+    "name": "Victor CRETAL",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Miss Bertram Adams",
-    "room": 2950,
-    "subject": "Tchekhov",
-    "group": "♦️",
-    "speaker": "Blaise Buchbaum"
+    "name": "William DAMBO",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Gloria Bogan",
-    "room": 3824,
-    "subject": "Anne",
-    "group": "♣️",
-    "speaker": "Catherine Lascault"
+    "name": "Flore DAMBREVILLE",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Danika Mayert",
-    "room": 2815,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Mahaut Rabattu"
+    "name": "Hugo DAUVERGNE",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Joey Medhurst",
-    "room": 2259,
-    "subject": "Danis",
-    "group": "♠️",
-    "speaker": "Guillaume Delalandre"
+    "name": "Théa DORRYHÉE",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Ilene Walker",
-    "room": 2584,
-    "subject": "Hugo",
-    "group": "♦️",
-    "speaker": "Camille Rémy"
+    "name": "Timothée DUMAS",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Margarette Leuschke",
-    "room": 3131,
-    "subject": "Marivaux",
-    "group": "♥️",
-    "speaker": "Laurine Catillon"
+    "name": "Reis TITOUAMANE",
+    "subject": "TCHEKHOV",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "club"
   },
   {
-    "name": "Lourdes Durgan",
-    "room": 3091,
-    "subject": "Mouawad",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
+    "name": "Chris LELEMBE",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Maybelle O'Kon",
-    "room": 2105,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Elsa Goulley"
+    "name": "Hugo LEMETAIS",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Ayana Mills",
-    "room": 3060,
-    "subject": "Sales",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
+    "name": "Nolan LESTOCLET--YANSENS",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Elmer Streich",
-    "room": 3511,
-    "subject": "Duras",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
+    "name": "Nicolas LIAO",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Issac Runolfsdottir",
-    "room": 2097,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Florence Tosi"
+    "name": "Alexandre LIN",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Colleen Pagac",
-    "room": 2674,
-    "subject": "Tchekhov",
-    "group": "♠️",
-    "speaker": "Laurine Catillon"
+    "name": "Mohamed A LMAKROUD",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Orin Auer",
-    "room": 3586,
-    "subject": "Tchekhov",
-    "group": "♦️",
-    "speaker": "Catherine Lascault"
+    "name": "Rémi LOCQUETTE",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Lawrence Kuhn",
-    "room": 2264,
-    "subject": "Sand",
-    "group": "♥️",
-    "speaker": "Tristan Rivière"
+    "name": "Adrien LOPOUKHINE",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Wilhelmine Beier",
-    "room": 3923,
-    "subject": "Sand",
-    "group": "♥️",
-    "speaker": "Nelly Fantoni"
+    "name": "Théo LYONNET",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Mr. Vilma Buckridge",
-    "room": 3391,
-    "subject": "Brecht",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
+    "name": "Suman MAHESAN",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Courtney Cummings",
-    "room": 3182,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Catherine Lascault"
+    "name": "Paul MALLARD",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   },
   {
-    "name": "Tyler Crist",
-    "room": 3261,
-    "subject": "Hugo",
-    "group": "♠️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Elisha Brakus II",
-    "room": 2602,
-    "subject": "Richter",
-    "group": "♥️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Annabell Runolfsdottir II",
-    "room": 3188,
-    "subject": "Guitry",
-    "group": "♣️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Scottie Lind",
-    "room": 2306,
-    "subject": "Navarro",
-    "group": "♠️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Emmitt Orn",
-    "room": 3072,
-    "subject": "Goldoni",
-    "group": "♠️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Daija Abernathy",
-    "room": 3987,
-    "subject": "Guitry",
-    "group": "♣️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Kaci Ernser",
-    "room": 2295,
-    "subject": "Pommerat",
-    "group": "♥️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Angelina Hermann",
-    "room": 2654,
-    "subject": "Goldoni",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Skye Hudson",
-    "room": 2039,
-    "subject": "Hugo",
-    "group": "♠️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Mrs. Aurelia Davis",
-    "room": 3346,
-    "subject": "Shakespeare",
-    "group": "♥️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Ryder Kautzer",
-    "room": 3174,
-    "subject": "Tchekhov",
-    "group": "♦️",
-    "speaker": "Camille Rémy"
-  },
-  {
-    "name": "Willow Kerluke DDS",
-    "room": 2081,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Ms. Ahmed Hamill",
-    "room": 2502,
-    "subject": "Koltès",
-    "group": "♦️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Anastacio King IV",
-    "room": 3566,
-    "subject": "Danis",
-    "group": "♦️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Annie Collier",
-    "room": 3350,
-    "subject": "Duras",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Mable Schmeler",
-    "room": 3002,
-    "subject": "Hugo",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Romaine Pfeffer",
-    "room": 2072,
-    "subject": "Sales",
-    "group": "♣️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Laurine DuBuque",
-    "room": 3977,
-    "subject": "Goldoni",
-    "group": "♥️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Annette Will",
-    "room": 2235,
-    "subject": "Shakespeare",
-    "group": "♦️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Carolyn Jacobson",
-    "room": 3333,
-    "subject": "Vinaver",
-    "group": "♦️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Marjorie Mueller",
-    "room": 3432,
-    "subject": "Duras",
-    "group": "♣️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Joany Hackett",
-    "room": 2919,
-    "subject": "Tchekhov",
-    "group": "♣️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "John Huels",
-    "room": 3816,
-    "subject": "Danis",
-    "group": "♣️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Ashton Jacobi",
-    "room": 2301,
-    "subject": "Sales",
-    "group": "♠️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Rogers Luettgen",
-    "room": 3940,
-    "subject": "Koltès",
-    "group": "♦️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Kenna Leannon",
-    "room": 2329,
-    "subject": "Guitry",
-    "group": "♠️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Emmet Carter",
-    "room": 3924,
-    "subject": "Hugo",
-    "group": "♣️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Jed Padberg",
-    "room": 3687,
-    "subject": "Goldoni",
-    "group": "♣️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Trevor Fadel",
-    "room": 2808,
-    "subject": "Hugo",
-    "group": "♥️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Alycia Leannon",
-    "room": 3971,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Nicole Grimes",
-    "room": 2215,
-    "subject": "Guitry",
-    "group": "♣️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Mr. Chad Fisher",
-    "room": 3508,
-    "subject": "Marivaux",
-    "group": "♥️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Miracle Abbott",
-    "room": 3908,
-    "subject": "Tchekhov",
-    "group": "♦️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Rasheed Hilpert",
-    "room": 3452,
-    "subject": "Danis",
-    "group": "♣️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Charley Berge",
-    "room": 2060,
-    "subject": "Sales",
-    "group": "♣️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Meta Kris",
-    "room": 3170,
-    "subject": "Tchekhov",
-    "group": "♣️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Herta O'Keefe",
-    "room": 2811,
-    "subject": "Crimp",
-    "group": "♠️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Josiah Cassin",
-    "room": 3498,
-    "subject": "Anne",
-    "group": "♦️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Michaela Gibson",
-    "room": 2306,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Leopoldo Kirlin I",
-    "room": 3191,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Alexandria Feest",
-    "room": 3041,
-    "subject": "Lagarce",
-    "group": "♦️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Miss Aurelia Koss",
-    "room": 2850,
-    "subject": "Marivaux",
-    "group": "♦️",
-    "speaker": "Diane Calma"
-  },
-  {
-    "name": "Selena Hirthe",
-    "room": 2699,
-    "subject": "Strindberg",
-    "group": "♦️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Oren Leffler",
-    "room": 2384,
-    "subject": "Koltès",
-    "group": "♣️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Payton Kilback Sr.",
-    "room": 3514,
-    "subject": "Duras",
-    "group": "♣️",
-    "speaker": "Blaise Buchbaum"
-  },
-  {
-    "name": "Dr. Camryn Veum",
-    "room": 2765,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Autumn Lubowitz",
-    "room": 3165,
-    "subject": "Strindberg",
-    "group": "♣️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Aaliyah Koepp",
-    "room": 2160,
-    "subject": "Danis",
-    "group": "♦️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Manuela Kemmer",
-    "room": 3074,
-    "subject": "Sand",
-    "group": "♥️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Marilou Braun",
-    "room": 3318,
-    "subject": "Vinaver",
-    "group": "♦️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Richard Gutkowski",
-    "room": 2753,
-    "subject": "Mouawad",
-    "group": "♠️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Jerry Skiles",
-    "room": 2316,
-    "subject": "Richter",
-    "group": "♦️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Jeromy Adams",
-    "room": 3097,
-    "subject": "Marivaux",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Antwon Huels",
-    "room": 3273,
-    "subject": "Sales",
-    "group": "♣️",
-    "speaker": "Camille Rémy"
-  },
-  {
-    "name": "Elda Lesch",
-    "room": 2464,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Ethelyn Renner",
-    "room": 3259,
-    "subject": "Feydeau",
-    "group": "♥️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Adolphus Rolfson",
-    "room": 2898,
-    "subject": "Sales",
-    "group": "♥️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Trudie Steuber",
-    "room": 3509,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Carmine Boehm",
-    "room": 2442,
-    "subject": "Crimp",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
-  },
-  {
-    "name": "Kobe Torp",
-    "room": 3075,
-    "subject": "Hugo",
-    "group": "♣️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Winnifred Johnson",
-    "room": 3071,
-    "subject": "Pommerat",
-    "group": "♥️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Obie Senger",
-    "room": 3016,
-    "subject": "Danis",
-    "group": "♥️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Miss Jordyn Nicolas",
-    "room": 3553,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Diane Calma"
-  },
-  {
-    "name": "Linnea Flatley",
-    "room": 3148,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Lempi Kuphal",
-    "room": 2665,
-    "subject": "Molière",
-    "group": "♠️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Harold Kris",
-    "room": 3104,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Reese D'Amore",
-    "room": 2573,
-    "subject": "Lagarce",
-    "group": "♦️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Hilma Lehner",
-    "room": 2120,
-    "subject": "Marivaux",
-    "group": "♦️",
-    "speaker": "Camille Rémy"
-  },
-  {
-    "name": "Wendy Bednar",
-    "room": 2707,
-    "subject": "Anne",
-    "group": "♠️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Melyna Jacobi",
-    "room": 2012,
-    "subject": "Lagarce",
-    "group": "♦️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Florian Von",
-    "room": 2105,
-    "subject": "Goldoni",
-    "group": "♣️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Solon Barrows MD",
-    "room": 2946,
-    "subject": "Hugo",
-    "group": "♣️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Irving Heller",
-    "room": 2871,
-    "subject": "Hugo",
-    "group": "♥️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Josie Hickle",
-    "room": 3280,
-    "subject": "Molière",
-    "group": "♥️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Uriah Kris DVM",
-    "room": 2126,
-    "subject": "Feydeau",
-    "group": "♠️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Winifred Wilkinson",
-    "room": 2018,
-    "subject": "Labiche",
-    "group": "♥️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Adrain Quigley MD",
-    "room": 2822,
-    "subject": "Crimp",
-    "group": "♦️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Ole Shields",
-    "room": 3116,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Gwendolyn Lowe",
-    "room": 3575,
-    "subject": "Hugo",
-    "group": "♣️",
-    "speaker": "Elsa Goulley"
-  },
-  {
-    "name": "Burnice Leffler",
-    "room": 2037,
-    "subject": "Richter",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Martin Wisoky",
-    "room": 3398,
-    "subject": "Koltès",
-    "group": "♣️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Haleigh King",
-    "room": 2901,
-    "subject": "Navarro",
-    "group": "♠️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Abagail Reinger",
-    "room": 2676,
-    "subject": "Molière",
-    "group": "♠️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Lea Rolfson",
-    "room": 3635,
-    "subject": "Lagarce",
-    "group": "♣️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Mittie Casper IV",
-    "room": 2915,
-    "subject": "Sales",
-    "group": "♣️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Kiarra Rodriguez",
-    "room": 2323,
-    "subject": "Anne",
-    "group": "♣️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Jayson Greenfelder",
-    "room": 3881,
-    "subject": "Guitry",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Camden Tremblay",
-    "room": 3073,
-    "subject": "Hugo",
-    "group": "♦️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Lukas Watsica",
-    "room": 3777,
-    "subject": "Danis",
-    "group": "♦️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Waino Wolf",
-    "room": 3724,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Tad Rodriguez",
-    "room": 3909,
-    "subject": "Sand",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
-  },
-  {
-    "name": "Ignatius Ledner",
-    "room": 2800,
-    "subject": "Pommerat",
-    "group": "♦️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Thaddeus Reichel",
-    "room": 2791,
-    "subject": "Pommerat",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Tiana Weimann",
-    "room": 2558,
-    "subject": "Anne",
-    "group": "♠️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Levi Rath",
-    "room": 2265,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Norma Reynolds",
-    "room": 3825,
-    "subject": "Marivaux",
-    "group": "♣️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Kellie Kemmer",
-    "room": 2088,
-    "subject": "Mouawad",
-    "group": "♥️",
-    "speaker": "Elsa Goulley"
-  },
-  {
-    "name": "Marisa Grant",
-    "room": 3933,
-    "subject": "Labiche",
-    "group": "♣️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Dr. Hobart Torphy",
-    "room": 3118,
-    "subject": "Sales",
-    "group": "♥️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Ladarius Boyer",
-    "room": 2640,
-    "subject": "Labiche",
-    "group": "♥️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Roy Murray Sr.",
-    "room": 3750,
-    "subject": "Navarro",
-    "group": "♥️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Jeffrey Hahn V",
-    "room": 3104,
-    "subject": "Vinaver",
-    "group": "♣️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Imani Skiles",
-    "room": 3960,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Boyd Upton II",
-    "room": 2792,
-    "subject": "Danis",
-    "group": "♦️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Melvin Wisoky",
-    "room": 3372,
-    "subject": "Vinaver",
-    "group": "♥️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Theresia Baumbach",
-    "room": 2092,
-    "subject": "Duras",
-    "group": "♠️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Arvilla Frami",
-    "room": 2127,
-    "subject": "Anne",
-    "group": "♥️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Loyce Pacocha",
-    "room": 2945,
-    "subject": "Strindberg",
-    "group": "♠️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Adell Satterfield",
-    "room": 3590,
-    "subject": "Feydeau",
-    "group": "♠️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Rachelle O'Conner",
-    "room": 3776,
-    "subject": "Koltès",
-    "group": "♣️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Isaiah Rath",
-    "room": 2978,
-    "subject": "Vinaver",
-    "group": "♠️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Chaim Smith",
-    "room": 2827,
-    "subject": "Brecht",
-    "group": "♠️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Tyson Lesch DDS",
-    "room": 3270,
-    "subject": "Pommerat",
-    "group": "♠️",
-    "speaker": "Diane Calma"
-  },
-  {
-    "name": "Arturo Purdy",
-    "room": 3517,
-    "subject": "Goldoni",
-    "group": "♥️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Giles Hilll",
-    "room": 3025,
-    "subject": "Lagarce",
-    "group": "♠️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Kacey Prohaska",
-    "room": 2799,
-    "subject": "Vinaver",
-    "group": "♥️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Ezra Gusikowski",
-    "room": 3063,
-    "subject": "Brecht",
-    "group": "♠️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Parker Feest",
-    "room": 2060,
-    "subject": "Danis",
-    "group": "♥️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Lila Kilback",
-    "room": 2570,
-    "subject": "Molière",
-    "group": "♣️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Dion Frami",
-    "room": 2257,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Marc Schinner I",
-    "room": 3606,
-    "subject": "Lagarce",
-    "group": "♣️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Destinee Kemmer",
-    "room": 2959,
-    "subject": "Strindberg",
-    "group": "♥️",
-    "speaker": "Anne Barlind"
-  },
-  {
-    "name": "Emelie Zulauf",
-    "room": 3685,
-    "subject": "Hugo",
-    "group": "♥️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Friedrich Ryan",
-    "room": 3721,
-    "subject": "Danis",
-    "group": "♣️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Doyle Von",
-    "room": 2593,
-    "subject": "Marivaux",
-    "group": "♣️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Moses Schiller",
-    "room": 3119,
-    "subject": "Danis",
-    "group": "♥️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Julien Cronin",
-    "room": 3022,
-    "subject": "Sales",
-    "group": "♠️",
-    "speaker": "Diane Calma"
-  },
-  {
-    "name": "Lenore Murphy",
-    "room": 2623,
-    "subject": "Koltès",
-    "group": "♠️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Mrs. Garnet Turner",
-    "room": 3425,
-    "subject": "Brecht",
-    "group": "♥️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Holly Gleason",
-    "room": 3337,
-    "subject": "Duras",
-    "group": "♦️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Elton Cronin",
-    "room": 2674,
-    "subject": "Mouawad",
-    "group": "♣️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Mr. Alize Schamberger",
-    "room": 2556,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Gregoria Gislason",
-    "room": 2978,
-    "subject": "Strindberg",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Ms. Boris Dibbert",
-    "room": 3227,
-    "subject": "Molière",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Coleman Ondricka",
-    "room": 3872,
-    "subject": "Labiche",
-    "group": "♥️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Katlynn Gerhold",
-    "room": 3825,
-    "subject": "Mouawad",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Marina Howell II",
-    "room": 3397,
-    "subject": "Lagarce",
-    "group": "♣️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Magdalena Cartwright",
-    "room": 3142,
-    "subject": "Labiche",
-    "group": "♠️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Tyreek Gulgowski",
-    "room": 3410,
-    "subject": "Anne",
-    "group": "♦️",
-    "speaker": "Elsa Goulley"
-  },
-  {
-    "name": "Esther Cronin",
-    "room": 3806,
-    "subject": "Pommerat",
-    "group": "♥️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Mr. Augustus Raynor",
-    "room": 3277,
-    "subject": "Hugo",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Santos Ziemann",
-    "room": 3655,
-    "subject": "Pommerat",
-    "group": "♥️",
-    "speaker": "Elsa Goulley"
-  },
-  {
-    "name": "Viva O'Hara",
-    "room": 2866,
-    "subject": "Mouawad",
-    "group": "♣️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Peggie Jast",
-    "room": 3153,
-    "subject": "Sand",
-    "group": "♠️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Brandy Hettinger",
-    "room": 2971,
-    "subject": "Crimp",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Violet Rowe",
-    "room": 3845,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Randy Larson DVM",
-    "room": 2183,
-    "subject": "Mouawad",
-    "group": "♠️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Royal Pollich",
-    "room": 2589,
-    "subject": "Tchekhov",
-    "group": "♦️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Marion Kuhn",
-    "room": 2021,
-    "subject": "Shakespeare",
-    "group": "♠️",
-    "speaker": "Florence Tosi"
-  },
-  {
-    "name": "Ms. Yessenia Welch",
-    "room": 2495,
-    "subject": "Molière",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Karianne Pfeffer",
-    "room": 2613,
-    "subject": "Vinaver",
-    "group": "♣️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Lilian Bergstrom",
-    "room": 3479,
-    "subject": "Tchekhov",
-    "group": "♠️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Tyrique Hackett V",
-    "room": 2276,
-    "subject": "Strindberg",
-    "group": "♣️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Wilber Kerluke",
-    "room": 3524,
-    "subject": "Crimp",
-    "group": "♠️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Dr. Andres Pagac",
-    "room": 2713,
-    "subject": "Strindberg",
-    "group": "♦️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Emily Morissette",
-    "room": 2489,
-    "subject": "Mouawad",
-    "group": "♣️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Ubaldo Turner",
-    "room": 2148,
-    "subject": "Shakespeare",
-    "group": "♣️",
-    "speaker": "Diane Calma"
-  },
-  {
-    "name": "Whitney Heathcote",
-    "room": 3883,
-    "subject": "Lagarce",
-    "group": "♥️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Magnolia Kohler",
-    "room": 2312,
-    "subject": "Shakespeare",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Leonora Gutmann Jr.",
-    "room": 3475,
-    "subject": "Sand",
-    "group": "♠️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Rebecca Ritchie",
-    "room": 3285,
-    "subject": "Molière",
-    "group": "♥️",
-    "speaker": "Blaise Buchbaum"
-  },
-  {
-    "name": "Ofelia Glover",
-    "room": 2578,
-    "subject": "Crimp",
-    "group": "♠️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Tristin Pfannerstill",
-    "room": 3247,
-    "subject": "Richter",
-    "group": "♦️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Deshaun Hamill Sr.",
-    "room": 3191,
-    "subject": "Navarro",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Herta Bailey",
-    "room": 2095,
-    "subject": "Molière",
-    "group": "♠️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Wilfred Becker DVM",
-    "room": 3480,
-    "subject": "Molière",
-    "group": "♠️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Jaquelin Sanford",
-    "room": 3064,
-    "subject": "Lagarce",
-    "group": "♠️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Emory Hermann",
-    "room": 2132,
-    "subject": "Richter",
-    "group": "♥️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Mrs. Gerard Thompson",
-    "room": 3467,
-    "subject": "Danis",
-    "group": "♥️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Crystal Dickinson",
-    "room": 2499,
-    "subject": "Labiche",
-    "group": "♣️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Rosemary Gorczany",
-    "room": 2230,
-    "subject": "Shakespeare",
-    "group": "♦️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Myrl Fahey",
-    "room": 2108,
-    "subject": "Crimp",
-    "group": "♥️",
-    "speaker": "Tristan Rivière"
-  },
-  {
-    "name": "Miss Pablo Robel",
-    "room": 3761,
-    "subject": "Feydeau",
-    "group": "♠️",
-    "speaker": "Camille Rémy"
-  },
-  {
-    "name": "Mr. Viva Harvey",
-    "room": 2238,
-    "subject": "Feydeau",
-    "group": "♣️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Rosella Powlowski",
-    "room": 2971,
-    "subject": "Navarro",
-    "group": "♥️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Kelvin Kessler",
-    "room": 2703,
-    "subject": "Goldoni",
-    "group": "♦️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Nickolas McCullough",
-    "room": 2244,
-    "subject": "Pommerat",
-    "group": "♣️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Giovani Lowe",
-    "room": 3770,
-    "subject": "Shakespeare",
-    "group": "♥️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Jody Volkman",
-    "room": 3467,
-    "subject": "Guitry",
-    "group": "♥️",
-    "speaker": "Guillaume Delalandre"
-  },
-  {
-    "name": "Mr. Telly Harris",
-    "room": 2470,
-    "subject": "Labiche",
-    "group": "♣️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Mrs. Elmo Klein",
-    "room": 2113,
-    "subject": "Hugo",
-    "group": "♦️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Miss Nelson White",
-    "room": 2719,
-    "subject": "Tchekhov",
-    "group": "♣️",
-    "speaker": "Dominique Soula"
-  },
-  {
-    "name": "Hellen Hamill",
-    "room": 2322,
-    "subject": "Mouawad",
-    "group": "♣️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Rosie Abernathy",
-    "room": 2716,
-    "subject": "Labiche",
-    "group": "♣️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Astrid Stiedemann",
-    "room": 3730,
-    "subject": "Marivaux",
-    "group": "♠️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Lilly Oberbrunner",
-    "room": 3680,
-    "subject": "Feydeau",
-    "group": "♥️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Mrs. Consuelo Herzog",
-    "room": 3334,
-    "subject": "Duras",
-    "group": "♠️",
-    "speaker": "Désirée Olmi"
-  },
-  {
-    "name": "Aletha Schultz",
-    "room": 2491,
-    "subject": "Guitry",
-    "group": "♠️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Adam Paucek",
-    "room": 3894,
-    "subject": "Crimp",
-    "group": "♥️",
-    "speaker": "Elsa Goulley"
-  },
-  {
-    "name": "Florine Deckow DVM",
-    "room": 3002,
-    "subject": "Duras",
-    "group": "♠️",
-    "speaker": "Ellen Thien Duc"
-  },
-  {
-    "name": "Marianne Koepp",
-    "room": 3760,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Catherine Fourty"
-  },
-  {
-    "name": "Sarina Haley V",
-    "room": 3684,
-    "subject": "Shakespeare",
-    "group": "♠️",
-    "speaker": "Marine Tirouet"
-  },
-  {
-    "name": "Mrs. Fay Tillman",
-    "room": 3488,
-    "subject": "Guitry",
-    "group": "♦️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Letitia Emmerich",
-    "room": 3636,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Denis Bouvier d’Yvoire"
-  },
-  {
-    "name": "Elvera Witting",
-    "room": 3721,
-    "subject": "Pommerat",
-    "group": "♥️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Tyrell Mueller",
-    "room": 3923,
-    "subject": "Feydeau",
-    "group": "♦️",
-    "speaker": "Antoine Cafaro"
-  },
-  {
-    "name": "Demarcus Bergnaum",
-    "room": 3850,
-    "subject": "Crimp",
-    "group": "♦️",
-    "speaker": "Catherine Lascault"
-  },
-  {
-    "name": "Kyleigh Daniel",
-    "room": 2141,
-    "subject": "Brecht",
-    "group": "♣️",
-    "speaker": "Mahaut Rabattu"
-  },
-  {
-    "name": "Cielo Ratke II",
-    "room": 2643,
-    "subject": "Brecht",
-    "group": "♦️",
-    "speaker": "Enora Etrillard"
-  },
-  {
-    "name": "Kamren Herman",
-    "room": 3249,
-    "subject": "Duras",
-    "group": "♠️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Earline Heidenreich",
-    "room": 2800,
-    "subject": "Navarro",
-    "group": "♦️",
-    "speaker": "Madeleine Mainier"
-  },
-  {
-    "name": "Nina Rippin",
-    "room": 3669,
-    "subject": "Strindberg",
-    "group": "♥️",
-    "speaker": "Diane Calma"
-  },
-  {
-    "name": "Breana Erdman",
-    "room": 2921,
-    "subject": "Tchekhov",
-    "group": "♠️",
-    "speaker": "Toma Roche"
-  },
-  {
-    "name": "Myriam Hand",
-    "room": 3151,
-    "subject": "Marivaux",
-    "group": "♦️",
-    "speaker": "Nelly Fantoni"
-  },
-  {
-    "name": "Colt Beier",
-    "room": 2654,
-    "subject": "Molière",
-    "group": "♦️",
-    "speaker": "Benoît Lepecq"
-  },
-  {
-    "name": "Sedrick Schiller",
-    "room": 2777,
-    "subject": "Molière",
-    "group": "♥️",
-    "speaker": "Jérôme Imard"
-  },
-  {
-    "name": "Kory Macejkovic Jr.",
-    "room": 2495,
-    "subject": "Sales",
-    "group": "♣️",
-    "speaker": "Laurine Catillon"
-  },
-  {
-    "name": "Kurt Shanahan",
-    "room": 2731,
-    "subject": "Tchekhov",
-    "group": "♥️",
-    "speaker": "Blaise Buchbaum"
+    "name": "Nathan MANG",
+    "subject": "VINAVER",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "spade"
   }
 ]

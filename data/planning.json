@@ -1,21 +1,77 @@
 {
-  "days": ["lundi", "mardi", "mercredi", "jeudi", "vendredi"],
+  "displayed_days": ["dimanche 5"],
   "events": {
-    "lundi": [
+    "dimanche 5": [
       {
-        "title": "Bientôt !",
-        "description": "Le calendrier sera bientôt disponible.",
-        "location": "Bisous",
-        "color": "blue",
-        "start_at": "Dispo",
-        "end_at": "Bientôt"
+        "title": "Pré-accueil",
+        "description": "Un petit moment à l'extérieur de l'ESIEE pour discutailler",
+        "location": "Prairie",
+        "color": "yellow",
+        "start_at": "18h",
+        "end_at": "19h"
+      },
+      {
+        "title": "Pique-nique",
+        "description": "Le nom est pas ouf mais ça va être lourd",
+        "location": "Prairie",
+        "color": "yellow",
+        "start_at": "19h",
+        "end_at": "19h30"
+      },
+      {
+        "title": "Soirée",
+        "description": "Une soirée style ESIEE, vient et tu seras pas déçu",
+        "location": "Devant l'ESIEE",
+        "color": "red",
+        "start_at": "19h30",
+        "end_at": "tard"
       }
     ],
-    "mardi": [],
-    "mercredi": [],
-    "jeudi": [],
-    "vendredi": [],
-    "samedi": [],
-    "dimanche": []
+    "lundi 6": [
+      {
+        "title": "Accueil",
+        "description": "Votre premier contact avec l'école",
+        "location": "ESIEE",
+        "color": "blue",
+        "start_at": "8h",
+        "end_at": "12h"
+      },
+      {
+        "title": "Déjeuner",
+        "description": "Manger c'est important",
+        "location": "Prairie",
+        "color": "yellow",
+        "start_at": "13h",
+        "end_at": "14h"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre perfomance de l'année",
+        "location": "Salles attribuées",
+        "color": "green",
+        "start_at": "14h",
+        "end_at": "17h"
+      },
+      {
+        "title": "Parrains",
+        "description": "Révélation de vos parrains pour cette année",
+        "location": "Amphi. M.D.",
+        "color": "pink",
+        "start_at": "18h",
+        "end_at": "20h"
+      },
+      {
+        "title": "After-work",
+        "description": "Pour décompresser ensemble autour d'un verre",
+        "location": "ESIEE",
+        "color": "blue",
+        "start_at": "20h",
+        "end_at": "bout de la nuit"
+      }
+    ],
+    "mardi 7": [],
+    "mercredi 8": [],
+    "jeudi 9 ": [],
+    "vendredi 10": []
   }
 }
