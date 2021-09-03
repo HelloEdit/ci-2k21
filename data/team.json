@@ -20,6 +20,10 @@
     "role": "Secrétaire"
   },
   {
+    "name": "Louis DESPLANCHE",
+    "role": "Vice-président BDE"
+  },
+  {
     "name": "Pierre ALLA",
     "role": "Respo' Event"
   },
@@ -36,6 +40,10 @@
     "role": "Site Web"
   },
   {
+    "name": "Charly DIOUY",
+    "role": "Pôle Com'"
+  },
+  {
     "name": "Alizée FORYS",
     "role": "Pôle Com'"
   },
@@ -48,8 +56,20 @@
     "role": "Pôle Com'"
   },
   {
-    "name": "Charly DIOUY",
-    "role": "Pôle Créa'"
+    "name": "Héloïse LORDEZ",
+    "role": "Pôle Com'"
+  },
+  {
+    "name": "Ethan LARIVIERE",
+    "role": "Pôle Com'"
+  },
+  {
+    "name": "Maxime LOMBARDO",
+    "role": "Pôle Com'"
+  },
+  {
+    "name": "Solène COUSIN",
+    "role": "Pôle Com'"
   },
   {
     "name": "Agathe BESANCENOT",
@@ -68,7 +88,39 @@
     "role": "Pôle Event"
   },
   {
+    "name": "Tania SFEZ",
+    "role": "Pôle Event"
+  },
+  {
+    "name": "Salomé SMADJA",
+    "role": "Pôle Event"
+  },
+  {
+    "name": "Wandrille LEGRAS",
+    "role": "Pôle Event"
+  },
+  {
+    "name": "Mikeliane POUTI",
+    "role": "Pôle Event"
+  },
+  {
+    "name": "Iliana CARATHANASIS",
+    "role": "Pôle Event"
+  },
+  {
     "name": "Paul KEHLHOFFNER",
     "role": "Pôle Logistique"
+  },
+  {
+    "name": "Guillaume PAILLOUX",
+    "role": "Pôle Logistique"
+  },
+  {
+    "name": "Théo DESGARDIN",
+    "role": "Pôle Logistique"
+  },
+  {
+    "name": "Simon",
+    "role": "Pôle Simon"
   }
 ]

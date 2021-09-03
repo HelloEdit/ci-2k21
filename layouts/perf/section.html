@@ -41,16 +41,15 @@
                                 </thead>
                                 <tbody class="bg-white divide-y divide-gray-200">
                                 {{ range $.Site.Data.perf }}
-                                    {{ $splited := split (lower .name) " " }}
                                     <tr>
                                         <td class="px-6 py-4 whitespace-nowrap">
                                             <div class="flex items-center">
                                                 <div>
                                                     <div class="text-sm font-medium text-gray-900">
-                                                        {{ .name }}
+                                                        {{ .firstname }} {{ .lastname }}
                                                     </div>
                                                     <div class="text-sm text-gray-500">
-                                                        <span>{{ index $splited 0 }}.{{ delimit (after 1 $splited) "-" }}@edu.esiee.fr</span>
+                                                        <span>{{ lower (delimit (split .firstname " ") "") }}.{{ lower (delimit (split .lastname " ") "") }}@edu.esiee.fr</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -78,9 +77,20 @@
                 </div>
             </div>
 
-            <div class="flex flex-row mt-8 md:text-lg">
-                <p><span class="border border-black rounded-lg p-1">♥️♠️</span> Mardi matin</p>
-                <p><span class="border border-black rounded-lg p-1 ml-5">♣️♦️</span> Mardi après-midi</p>
+            <div class="bg-gray-50 mt-16">
+                <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between">
+                    <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+                        <span class="block">Besoin d'aider pour trouver votre salle ?</span>
+                        <span class="block text-indigo-600">Lisez les tips.</span>
+                    </h2>
+                    <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
+                        <div class="inline-flex rounded-md shadow">
+                            <a href="{{ ref . "organisation-esiee" }}" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700">
+                                Lire les tips
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </div>
