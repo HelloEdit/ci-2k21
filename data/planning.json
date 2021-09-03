@@ -1,5 +1,5 @@
 {
-  "displayed_days": ["dimanche 5"],
+  "displayed_days": ["dimanche 5", "lundi 6", "mardi 7", "mercredi 8", "jeudi 9"],
   "events": {
     "dimanche 5": [
       {
@@ -30,48 +30,229 @@
     "lundi 6": [
       {
         "title": "Accueil",
-        "description": "Votre premier contact avec l'école",
-        "location": "ESIEE",
-        "color": "blue",
-        "start_at": "8h",
-        "end_at": "12h"
+        "description": "Entrée à l'école & l'administratif tant aimé",
+        "location": "La Rue",
+        "color": "indigo",
+        "start_at": "8h30",
+        "end_at": "9h"
       },
       {
-        "title": "Déjeuner",
-        "description": "Manger c'est important",
-        "location": "Prairie",
-        "color": "yellow",
+        "title": "Présentation",
+        "description": "La présentation de l'école et de votre année",
+        "location": "Amph. M.D.",
+        "color": "indigo",
+        "start_at": "9h",
+        "end_at": "11h30"
+      },
+      {
+        "title": "Visite de l'école",
+        "description": "Un petit tour des installations",
+        "location": "ESIEE",
+        "color": "indigo",
+        "start_at": "11h30",
+        "end_at": "13h"
+      },
+      {
+        "title": "Repas",
+        "description": "Dégustation dans un petit restau' sympathique",
         "start_at": "13h",
         "end_at": "14h"
-      },
-      {
+      }, {
         "title": "La perf'",
-        "description": "Votre perfomance de l'année",
+        "description": "Votre performance de l'année !",
         "location": "Salles attribuées",
-        "color": "green",
-        "start_at": "14h",
+        "color": "indigo",
+        "start_at": "13h",
         "end_at": "17h"
       },
       {
         "title": "Parrains",
-        "description": "Révélation de vos parrains pour cette année",
+        "description": "Révélation de vos parrains et marraines pour cette année",
         "location": "Amphi. M.D.",
-        "color": "pink",
         "start_at": "18h",
         "end_at": "20h"
       },
       {
         "title": "After-work",
         "description": "Pour décompresser ensemble autour d'un verre",
-        "location": "ESIEE",
-        "color": "blue",
+        "location": "Cafétéria",
+        "color": "indigo",
         "start_at": "20h",
-        "end_at": "bout de la nuit"
+        "end_at": "au bout de la nuit"
       }
     ],
-    "mardi 7": [],
-    "mercredi 8": [],
-    "jeudi 9 ": [],
+    "mardi 7": [
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Salles attribuées",
+        "color": "indigo",
+        "start_at": "9h",
+        "end_at": "13h",
+        "group": "Groupe A"
+      },
+      {
+        "title": "Sport nautique",
+        "description": "Du sport trop stylé à la base nautique",
+        "location": "Base nautique",
+        "color": "pink",
+        "start_at": "9h",
+        "end_at": "13h",
+        "group": "Groupe B"
+      },
+      {
+        "title": "Repas",
+        "description": "Dégustation dans un petit restau' sympathique",
+        "start_at": "13h",
+        "end_at": "14h"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Salles attribuées",
+        "color": "indigo",
+        "start_at": "14h",
+        "end_at": "18h",
+        "group": "Groupe B"
+      },
+      {
+        "title": "Sport nautique",
+        "description": "Du sport trop stylé à la base nautique",
+        "location": "Base nautique",
+        "color": "pink",
+        "start_at": "14h",
+        "end_at": "18h",
+        "group": "Groupe A"
+      },
+      {
+        "title": "Flam's",
+        "description": "Die Elsässer Flammekueche, die wir am meisten lieben",
+        "location": "Flam's",
+        "color": "green",
+        "start_at": "18h",
+        "end_at": "au bout de la nuit"
+      }
+    ],
+    "mercredi 8": [
+      {
+        "title": "Contrôle",
+        "description": "Contrôle de mathématiques de l'ESIEE Paris",
+        "location": "Salles examen",
+        "color": "indigo",
+        "start_at": "8h",
+        "end_at": "9h"
+      },
+      {
+        "title": "Matinée des clubs",
+        "description": "Présentation des clubs par leurs membres",
+        "location": "La Rue",
+        "color": "indigo",
+        "start_at": "9h",
+        "end_at": "12h"
+      },
+      {
+        "title": "Repas",
+        "description": "Repas avec vos parrains",
+        "start_at": "12h",
+        "end_at": "13h"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "13h",
+        "end_at": "16h",
+        "group": "Groupe 1"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "14h",
+        "end_at": "17h",
+        "group": "Groupe 2"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "15h",
+        "end_at": "18h",
+        "group": "Groupe 3"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "16h",
+        "end_at": "19h",
+        "group": "Groupe 4"
+      },
+      {
+        "title": "After-work",
+        "description": "Pour décompresser ensemble autour d'un verre",
+        "location": "Cafétéria",
+        "color": "indigo",
+        "start_at": "20h",
+        "end_at": "au bout de la nuit"
+      }
+    ],
+    "jeudi 9": [
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "9h",
+        "end_at": "11h30",
+        "group": "Groupe α"
+      },
+      {
+        "title": "Association show",
+        "description": "La présentation des associations de l'ESIEE Paris",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "9h",
+        "end_at": "11h30",
+        "group": "Groupe β"
+      },
+      {
+        "title": "Association show",
+        "description": "La présentation des associations de l'ESIEE Paris",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "11h30",
+        "end_at": "13h00",
+        "group": "Groupe α"
+      },
+      {
+        "title": "La perf'",
+        "description": "Votre performance de l'année !",
+        "location": "Amphi.",
+        "color": "indigo",
+        "start_at": "11h30",
+        "end_at": "13h",
+        "group": "Groupe β"
+      },
+      {
+        "title": "Repas",
+        "description": "Dégustation dans un petit restau' sympathique",
+        "start_at": "13h",
+        "end_at": "14h"
+      },
+      {
+        "title": "WEI",
+        "description": "C'est parti pour le Weekend d'Intégration !",
+        "color": "gray",
+        "location": "???",
+        "start_at": "14h",
+        "end_at": "???"
+      }
+    ],
     "vendredi 10": []
   }
 }
