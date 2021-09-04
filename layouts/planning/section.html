@@ -4,58 +4,28 @@
         <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 mt-6">
             <div class="flex flex-col">
                 <h1 class="leading-relaxed text-6xl font-bold text-gray-900">{{ .Name }}</h1>
-                <div>
-                    <label id="listbox-label" class="block text-sm font-medium text-gray-700">
-                        Je suis du groupe
-                    </label>
-                    <div class="mt-1 relative lg:w-1/2">
-                        <button id="group-selector" type="button" class="relative w-full bg-white border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" aria-haspopup="listbox" aria-expanded="true" aria-labelledby="listbox-label">
-                            <div id="group-current">
-                                <option class="flex items-center align-middle" value="all">
-                                    <span class="flex-shrink-0 text-base h-6 w-6 text-center">
-                                        👀
-                                    </span>
-                                    <span class="font-normal ml-3 block truncate capitalize">
-                                        Tous les groupes
-                                    </span>
-                                </option>
-                            </div>
-                            <span class="ml-3 absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
-                                <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                  <path fill-rule="evenodd" d="M10 3a1 1 0 01.707.293l3 3a1 1 0 01-1.414 1.414L10 5.414 7.707 7.707a1 1 0 01-1.414-1.414l3-3A1 1 0 0110 3zm-3.707 9.293a1 1 0 011.414 0L10 14.586l2.293-2.293a1 1 0 011.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd" />
-                                </svg>
-                            </span>
-                        </button>
-
-                        <!--
-                          Select popover, show/hide based on select state.
-
-                          Entering: ""
-                            From: ""
-                            To: ""
-                          Leaving: "transition ease-in duration-100"
-                            From: "opacity-100"
-                            To: "opacity-0"
-                        -->
-                        <ul id="group-options" class="hidden absolute mt-1 w-full bg-white shadow-lg max-h-56 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm" tabindex="-1" role="listbox" aria-labelledby="listbox-label" aria-activedescendant="listbox-option-3">
-                            {{ range $key, $value := $.Site.Data.group }}
-                            <li class="text-gray-900 cursor-default select-none relative py-2 pl-3 pr-9 hover:text-white hover:bg-indigo-600" id="listbox-option-0" role="option">
-                                <option class="flex items-center align-middle" value="{{ $key }}">
-                                    <span class="flex-shrink-0 text-base h-6 w-6 text-center">
-                                        {{ $value }}
-                                    </span>
-                                    <!-- Selected: "font-semibold", Not Selected: "font-normal" -->
-                                    <span class="font-normal ml-3 block truncate capitalize">
-                                        {{ $key }}
-                                    </span>
-                                </option>
-                            </li>
-                            {{ end }}
-
-                            <!-- More items... -->
-                        </ul>
+                <label id="listbox-label" class="mb-2 block text-sm font-medium text-gray-700">
+                    Je suis du groupe
+                </label>
+                <form id="group-selection" class="radio flex flex-wrap justify-between lg:w-5/12">
+                    <div class="my-1">
+                        <input type="radio" id="heart" name="group" value="coeur" hidden>
+                        <label for="heart">♥️ Coeur</label>
                     </div>
-                </div>
+                    <div class="my-1">
+                        <input type="radio" id="club" name="group" value="trèfle" hidden>
+                        <label for="club">♣️ Trèfle</label>
+                    </div>
+                    <div class="my-1">
+                        <input type="radio" id="spade" name="group" value="pique" hidden>
+                        <label for="spade">♠️ Pique</label>
+                    </div>
+                    <div class="my-1">
+                        <input type="radio" id="diamond" name="group" value="carreau" hidden>
+                        <label for="diamond">♦️ Carreau</label>
+                    </div>
+                </form>
+
             </div>
         </div>
 
@@ -70,7 +40,7 @@
 
                         <ul>
                         {{ range index $.Site.Data.planning.events . }}
-                            <li>{{ template "event" . }}</li>
+                            <li>{{ template "event" (dict "page" $ "data" .) }}</li>
                         {{ end }}
                         </ul>
 
@@ -83,34 +53,42 @@
 {{ end }}
 
 {{ define "event" }}
-    <div class="event">
+    <dt class="event" {{ if .data.group }}data-group="{{ delimit .data.group "," }}"{{ end }}>
         <div class="relative">
-            <span class="font-semibold">{{ .start_at }} - {{ .end_at }}</span>
-            {{ if .group }}<span class="absolute right-0">{{ .group }}</span>{{ end }}
+            <span class="font-semibold">{{ .data.start_at }} - {{ .data.end_at }}</span>
+            {{ if .data.group }}
+            <span class="absolute right-0 text-xl">
+                {{ range .data.group }}{{ index $.page.Site.Data.group . }} {{ end }}
+            </span>
+            {{ end }}
         </div>
-        <h4>{{ .title }}</h4>
-        <p>{{ .description }}</p>
+        <h4>{{ .data.title }}</h4>
+        <p>{{ .data.description }}</p>
 
         <section class="flex justify-end">
-            <span class="tooltip bg-{{ .color }}-600">{{ .location }}</span>
+            <span class="tooltip bg-{{ .color }}-600">{{ .data.location }}</span>
         </section>
-    </div>
+    </dt>
 {{ end }}
 
 {{ define "script" }}
 <script>
-    const selector = document.querySelector("#group-selector")
-    const options = document.querySelector("#group-options")
-    const current = document.querySelector("#group-current")
-    selector.addEventListener("click", () => {
-        options.classList.toggle("hidden")
-    })
+    const selector = document.querySelector("#group-selection")
 
-    options.addEventListener("click", event => {
-        options.classList.toggle("hidden")
+    selector.addEventListener("change", (e) => filterPlanning(e.target.value))
 
-        const selected = event.target.closest("option")
-        current.replaceChildren(selected.cloneNode(true))
-    })
+    const planning = document.querySelectorAll("#planning dt")
+
+    function filterPlanning(target) {
+        for (const element of planning) {
+            if (!("data-group" in element.attributes)) continue
+
+            const value = element.attributes["data-group"].value
+            const groups = value.split(",")
+
+            if (!groups.includes(target)) element.classList.add("hidden")
+            else element.classList.remove("hidden")
+        }
+    }
 </script>
 {{ end }}

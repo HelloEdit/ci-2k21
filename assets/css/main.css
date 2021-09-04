@@ -60,3 +60,18 @@ nav #mobile-menu.open {
 .today {
     @apply bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500
 }
+
+.radio div {
+    @apply flex
+}
+
+.radio input ~ label {
+    @apply p-3 rounded-xl border-2 border-black bg-white font-semibold
+}
+.radio input:checked ~ label {
+    @apply bg-gray-800 text-white
+}
+
+.hidden {
+    display: none !important;
+}

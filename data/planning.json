@@ -81,7 +81,7 @@
         "color": "indigo",
         "start_at": "9h",
         "end_at": "13h",
-        "group": "Groupe A"
+        "group": ["pique", "coeur"]
       },
       {
         "title": "Sport nautique",
@@ -90,7 +90,7 @@
         "color": "pink",
         "start_at": "9h",
         "end_at": "13h",
-        "group": "Groupe B"
+        "group": ["carreau", "trèfle"]
       },
       {
         "title": "Repas",
@@ -105,7 +105,7 @@
         "color": "indigo",
         "start_at": "14h",
         "end_at": "18h",
-        "group": "Groupe B"
+        "group": ["carreau", "trèfle"]
       },
       {
         "title": "Sport nautique",
@@ -114,7 +114,7 @@
         "color": "pink",
         "start_at": "14h",
         "end_at": "18h",
-        "group": "Groupe A"
+        "group": ["pique", "coeur"]
       },
       {
         "title": "Flam's",
@@ -155,7 +155,7 @@
         "color": "indigo",
         "start_at": "13h",
         "end_at": "16h",
-        "group": "Groupe 1"
+        "group": ["pique"]
       },
       {
         "title": "La perf'",
@@ -164,7 +164,7 @@
         "color": "indigo",
         "start_at": "14h",
         "end_at": "17h",
-        "group": "Groupe 2"
+        "group": ["coeur"]
       },
       {
         "title": "La perf'",
@@ -173,7 +173,7 @@
         "color": "indigo",
         "start_at": "15h",
         "end_at": "18h",
-        "group": "Groupe 3"
+        "group": ["carreau"]
       },
       {
         "title": "La perf'",
@@ -182,7 +182,7 @@
         "color": "indigo",
         "start_at": "16h",
         "end_at": "19h",
-        "group": "Groupe 4"
+        "group": ["trèfle"]
       },
       {
         "title": "After-work",
@@ -201,7 +201,7 @@
         "color": "indigo",
         "start_at": "9h",
         "end_at": "11h30",
-        "group": "Groupe α"
+        "group": ["pique", "coeur"]
       },
       {
         "title": "Présentation des assos",
@@ -210,7 +210,7 @@
         "color": "indigo",
         "start_at": "9h",
         "end_at": "11h30",
-        "group": "Groupe β"
+        "group": ["carreau", "trèfle"]
       },
       {
         "title": "Présentation des assos",
@@ -219,7 +219,7 @@
         "color": "indigo",
         "start_at": "11h30",
         "end_at": "13h00",
-        "group": "Groupe α"
+        "group": ["pique", "coeur"]
       },
       {
         "title": "La perf'",
@@ -228,7 +228,7 @@
         "color": "indigo",
         "start_at": "11h30",
         "end_at": "13h",
-        "group": "Groupe β"
+        "group": ["carreau", "trèfle"]
       },
       {
         "title": "Repas",
