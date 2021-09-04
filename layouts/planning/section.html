@@ -41,7 +41,7 @@
                         <ul id="group-options" class="hidden absolute mt-1 w-full bg-white shadow-lg max-h-56 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm" tabindex="-1" role="listbox" aria-labelledby="listbox-label" aria-activedescendant="listbox-option-3">
                             {{ range $key, $value := $.Site.Data.group }}
                             <li class="text-gray-900 cursor-default select-none relative py-2 pl-3 pr-9 hover:text-white hover:bg-indigo-600" id="listbox-option-0" role="option">
-                                <div class="flex items-center align-middle" id="{{ $key }}">
+                                <option class="flex items-center align-middle" value="{{ $key }}">
                                     <span class="flex-shrink-0 text-base h-6 w-6 text-center">
                                         {{ $value }}
                                     </span>
@@ -49,7 +49,7 @@
                                     <span class="font-normal ml-3 block truncate capitalize">
                                         {{ $key }}
                                     </span>
-                                </div>
+                                </option>
                             </li>
                             {{ end }}
 
@@ -110,7 +110,7 @@
     options.addEventListener("click", event => {
         options.classList.toggle("hidden")
 
-        const selected = event.target.closest("div")
+        const selected = event.target.closest("option")
         current.replaceChildren(selected.cloneNode(true))
     })
 </script>
