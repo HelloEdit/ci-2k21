@@ -1,1 +1,2194 @@
-[{"firstname":"Romain","lastname":"JEANNE","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Oualid","lastname":"JERIDI","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Anthony","lastname":"JIN","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Yusuf","lastname":"KAPLAN","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Basile","lastname":"KERESTEDJIAN","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Dany","lastname":"KHA","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Ilyès","lastname":"KHEROUAA","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Mark Way","lastname":"KONG","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Hugo","lastname":"KOTHE","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Cécile","lastname":"UNG","subject":"Anne","room":1407,"speaker":"Catherine Lascault","group":"spade"},{"firstname":"Maud","lastname":"FAILLY","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Chahine","lastname":"KHETIB","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Vladislav","lastname":"SENECHAL","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Ludovic","lastname":"VIELLARD","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Tom","lastname":"VIGNAUD","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Olivier","lastname":"WANG","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Baptiste","lastname":"XEMARD","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Caull","lastname":"YANG","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Samuel","lastname":"YANO-MPOYO","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Romain","lastname":"YEROLYMOS","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Adam","lastname":"ZEH","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Eric","lastname":"ZOU","subject":"Brecht","room":3107,"speaker":"Dominique Soula","group":"club"},{"firstname":"Kevin","lastname":"ABD EL MESSIH","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Rémy","lastname":"ABDOUL MAZIDOU","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Fahira","lastname":"ABDOULALIME","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Eva","lastname":"ABDOULHAKIME","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Jade","lastname":"ABID","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Yassin","lastname":"AHMED MOHAMED ALI","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Alexis","lastname":"ALVES","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Nicolas","lastname":"ANGELI","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Julien","lastname":"ARCHAMBAULT","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Alperen","lastname":"ARIK","subject":"Crimp","room":112,"speaker":"Mahaut Rabattu","group":"heart"},{"firstname":"Louis","lastname":"BATISSE","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Camille","lastname":"CARBASSE","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Khalid","lastname":"EL FTOUH","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Tristan","lastname":"GRIZON","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Arthur","lastname":"JOSSEAUME","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Galaad","lastname":"KUHN-BERNARD","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Romain","lastname":"LOUIS","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Yanis","lastname":"MALOU","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Hugo","lastname":"MARTIN","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Ajanan","lastname":"NAVENDRAN","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Thomas","lastname":"RIOTTE","subject":"Danis","room":114,"speaker":"Claudie Guillot","group":"heart"},{"firstname":"Lina","lastname":"BRAHMI","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Annabelle","lastname":"BROUET","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Viviane","lastname":"BUI","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Jonathan","lastname":"FOMENOU","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Arthur","lastname":"FORTIN","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Imad","lastname":"GAMOUH","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Pierre","lastname":"GERVAIS","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Valentin","lastname":"GIARDI","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Cédric","lastname":"GIBERT","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Nathan","lastname":"GILLOTIN","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Arsène","lastname":"GLASSON","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Omid","lastname":"GOLYANI","subject":"Duras","room":1401,"speaker":"Diane Calma","group":"spade"},{"firstname":"Adel","lastname":"ABID","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Romain","lastname":"ALVES FERREIRA","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Ayman","lastname":"CHOUKAR","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Tilad","lastname":"CHRAITEH","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Ryad","lastname":"HAMZAOUI","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"William","lastname":"JODAR","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Yanis","lastname":"KARA","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Matéo","lastname":"LANGLET","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Julien","lastname":"LAVRARD-MEYER","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Meriam","lastname":"NAAS","subject":"Feydeau","room":115,"speaker":"Denis Bouvier d'Yvoire","group":"heart"},{"firstname":"Farah","lastname":"EL KADDOURI","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Sarah","lastname":"EL OUAFI","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Camille","lastname":"FAHY","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Arthur","lastname":"KALUKIN","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Tom","lastname":"LALIEU","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Dylan","lastname":"LE PLADEC","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Yacine","lastname":"LEBKIRI","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Nathan","lastname":"LECOIN","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"François","lastname":"LEHMANN-GRIMALDI","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Margot","lastname":"UTRERA","subject":"Goldoni","room":1103,"speaker":"Ellen Huynh Thien Duc","group":"spade"},{"firstname":"Johan","lastname":"SENTHURAN","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Serge-Olivier","lastname":"SEUTCHEU TCHAMABE","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Kamil","lastname":"SINACEUR","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Simratpal","lastname":"SINGH","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Corentin","lastname":"SOULIGNAC--THOMINET","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Matthieu","lastname":"SOUSA FERREIRA","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Ugo","lastname":"STRIPPE","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Kader","lastname":"TANDIA","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Kézian","lastname":"TAPIE","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Michaël","lastname":"TASDEMIR","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Adnan","lastname":"TAZANI LOUMISSI","subject":"Guitry","room":3103,"speaker":"Benoît Lepecq","group":"diamond"},{"firstname":"Agathe","lastname":"GERBIER","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Taïssia","lastname":"GINOT","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Tiani","lastname":"HAPPI","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Jean-Antoine","lastname":"MARIANI","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Florian","lastname":"MARQUES","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Aurélien","lastname":"MARTY","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Nicolas","lastname":"MATIAS","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Raphaël","lastname":"MAUFROY","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Guillaume","lastname":"MECENE","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Soheil","lastname":"MERHI","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Selyan","lastname":"MEYER","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Méa","lastname":"VITTOT","subject":"Hugo","room":2205,"speaker":"Camille Rémy","group":"diamond"},{"firstname":"Saif","lastname":"MOHAMMAD","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Louka","lastname":"MORANDI","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Esteban","lastname":"NABONNE","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Erwann","lastname":"NANOU","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Nicolas","lastname":"NASO","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Mikaël","lastname":"NAVARRE","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Cheikh","lastname":"N'DIAYE","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Calvin","lastname":"NGUYEN","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Tom","lastname":"NGUYEN","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Gaya","lastname":"OUCHENE","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Timothy","lastname":"OUPINDRIN","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Gauthier","lastname":"PAGET","subject":"Koltes","room":2207,"speaker":"Tristan Rivière","group":"diamond"},{"firstname":"Lucie","lastname":"HARLET","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Charlotte","lastname":"HERNU","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Mathilde","lastname":"HOCDE","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Clément","lastname":"PAILLARD","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Luca","lastname":"PALAYSI","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Bastien","lastname":"PANVERT","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Rayan","lastname":"PAUL","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Happi","lastname":"PELAP","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Johan","lastname":"PETIT","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Son","lastname":"PHAM DANG","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Tan","lastname":"PHAM NGOC","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Damien","lastname":"PHILIPPE","subject":"Labiche","room":3051,"speaker":"Enora Etrillard","group":"diamond"},{"firstname":"Alexian","lastname":"PLANCKE","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Matthieu","lastname":"POLY","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Cédric","lastname":"PRÉTET","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Jovan","lastname":"RAHME","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Théo","lastname":"REVELANT","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Baptiste","lastname":"RIBEYROL","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Arnaud","lastname":"RITOUX","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Julien","lastname":"ROAN","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Pierre-Louis","lastname":"ROIG","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Yann","lastname":"ROSCOULET","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Pierre","lastname":"VIE","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Selma","lastname":"ZINE-EDDINE","subject":"Lagarce","room":3053,"speaker":"Madeleine Mainier","group":"diamond"},{"firstname":"Anaelle","lastname":"MARIETTE","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Sophie","lastname":"PAN","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Alitina","lastname":"RATSIMBAZAFY","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Paul","lastname":"ROUFFI","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Achille","lastname":"ROUILLARD","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Baptiste","lastname":"ROZAN","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Lilian","lastname":"SAULOUP","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Quentin","lastname":"SAVITCH","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Kenny","lastname":"SAVIVANH","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Nathan","lastname":"SCHARFMANN","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Enzo","lastname":"SE CHAO","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Jordan","lastname":"SELLAM","subject":"Marivaux","room":3101,"speaker":"Antoine Cafaro","group":"diamond"},{"firstname":"Ghali","lastname":"CHANNAWI","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Jéremy","lastname":"CHEN","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Lucas","lastname":"CLÉMENS","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Romain","lastname":"COLOMBIÉ","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Gaspard","lastname":"COULY","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Guillaume","lastname":"CURTIS","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Yassine","lastname":"DAVALI","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Dany","lastname":"DE MELO","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Martin","lastname":"DEGUEURCE","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Emilie","lastname":"TAUSKY","subject":"Moliere","room":163,"speaker":"Florence Tosi","group":"club"},{"firstname":"Tasnim","lastname":"CHARIFFOU","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Morgane","lastname":"CORNEAU","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Jeanne","lastname":"DUMOULIN","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Louis","lastname":"HAMEL","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Théo","lastname":"HAMON","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Kérien","lastname":"HARTWEG","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Jeremy","lastname":"HENG","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Nicolas","lastname":"HOUDART","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Yassine","lastname":"HOUMIR","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Hugo","lastname":"HUCHEDE","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Matthieu","lastname":"HULOT","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Gabriel","lastname":"JACQUEMIN","subject":"Mouawad","room":1405,"speaker":"Blaise Buchsbaum","group":"spade"},{"firstname":"Brice","lastname":"ARMAND","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Gautier","lastname":"ARSON","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Aeven","lastname":"AUGUSTIN","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Antoine","lastname":"AVERLAND","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Yassine","lastname":"AZMI","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Matthieu","lastname":"AZZOUN","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Prince","lastname":"BAYA","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Matteo","lastname":"BEGHELLI","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Rayan","lastname":"BELDI","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Gémaël","lastname":"BELROSE","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Alexandre","lastname":"BERTHELOT","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Ana","lastname":"SERRA ALVES","subject":"Navarro","room":113,"speaker":"Désirée Olmi","group":"heart"},{"firstname":"Raphael","lastname":"FAUCONNIER","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Manon","lastname":"GUIRAUD","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Mathilde","lastname":"GUYOT","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Aïssatou","lastname":"KEITA","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Juliette","lastname":"LEPROUST","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Lila","lastname":"RAZANI","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Manon","lastname":"REBIÈRE","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Baptiste","lastname":"RICHARD","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Clement","lastname":"SAINTE-ROSE","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Julie","lastname":"TESSON","subject":"Pommerat","room":3203,"speaker":"Guillaume Delalandre","group":"club"},{"firstname":"Yasminah","lastname":"ALOUACHE--SAINZ","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Ambrine","lastname":"ARBAOUI","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Alexia","lastname":"BARBIER","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Florian","lastname":"BIGOTTEAU","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Baptiste","lastname":"BLANCHET","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Axel","lastname":"BLOIS","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Savio","lastname":"BOISSINOT","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Owen","lastname":"BRAUX","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Adam","lastname":"BRAVANT","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Dinh Thong","lastname":"BUI","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Erwan","lastname":"BUINO","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Lylian","lastname":"CARON","subject":"Richter","room":164,"speaker":"Catherine Fourty","group":"club"},{"firstname":"Victor","lastname":"DUMANOIS","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Tony","lastname":"DUONG","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Lucas","lastname":"DUPLANT","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Thomas","lastname":"DURAND","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Ismaël","lastname":"EL HAIMADI","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Nathan","lastname":"EVRARD","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Kévin","lastname":"FACH","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Emile","lastname":"FANJUL","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Mathieu","lastname":"FARRE","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Terence","lastname":"FERNANDES","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Noé","lastname":"PAUMELLE","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Lily-Rose","lastname":"TONOLINI","subject":"Sales","room":1307,"speaker":"Elsa Goulley","group":"heart"},{"firstname":"Pauline","lastname":"ROCHER","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Louise","lastname":"ROULAND","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Inès","lastname":"SAADI","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Kim","lastname":"TESSIER","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Bilel","lastname":"TKITEK","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Amine","lastname":"TLAGHI","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Mohamed-Ali","lastname":"TLILI","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Titouan","lastname":"TONNELLIER","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Ismail","lastname":"TORRES","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Victor","lastname":"UNTEREINER","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Chloé","lastname":"VIDIGUEIRA","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Lorenzo","lastname":"VIDY","subject":"Sand","room":3105,"speaker":"Anne Barlind","group":"club"},{"firstname":"Terence","lastname":"GOMEZ","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Thibault","lastname":"GOUGEON","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Louis","lastname":"GRANGE","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Maxence","lastname":"GREVET","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Alexandre","lastname":"GROSDIDIER","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Hippolyte","lastname":"GUASP","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Ryan","lastname":"GUENAOUI","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Amaury","lastname":"GUÉRIF","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Yassine","lastname":"HACHMI","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Adam","lastname":"HADJEB","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Clarisse","lastname":"TUY","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Minh Quang","lastname":"VU","subject":"Shakespeare","room":1403,"speaker":"Marine Tirouet","group":"spade"},{"firstname":"Ellinor","lastname":"BOISSELET","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Hadjer","lastname":"BOUCHAMA","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Pietro","lastname":"CAMPAGNA","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Hadrien","lastname":"DEJONGHE","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Danylo","lastname":"DEMBITSKYI","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Amara","lastname":"DIARRA","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Alex","lastname":"DIAZ","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Bilal","lastname":"DIRIR","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Quentin","lastname":"DOMON","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Pablo","lastname":"DOYNEL DE LA SAUSSERIE","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Arthur","lastname":"DREUILHET","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Leo","lastname":"DUBOS","subject":"Strindberg","room":1305,"speaker":"Nelly Fantoni","group":"heart"},{"firstname":"Mosaab","lastname":"ABOUCHOUKAIR","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Adam","lastname":"AMERZAG","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Ali","lastname":"ANTOSZCZYK","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Julien","lastname":"ARAB","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Louis","lastname":"CLECH","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Victor","lastname":"CRETAL","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"William","lastname":"DAMBO","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Flore","lastname":"DAMBREVILLE","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Hugo","lastname":"DAUVERGNE","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Théa","lastname":"DORRYHÉE","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Timothée","lastname":"DUMAS","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Reis","lastname":"TITOUAMANE","subject":"Tchekhov","room":3201,"speaker":"Laurine Catillon","group":"club"},{"firstname":"Chris","lastname":"LELEMBE","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Hugo","lastname":"LEMETAIS","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Nolan","lastname":"LESTOCLET--YANSENS","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Nicolas","lastname":"LIAO","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Alexandre","lastname":"LIN","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Mohamed A","lastname":"LMAKROUD","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Rémi","lastname":"LOCQUETTE","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Adrien","lastname":"LOPOUKHINE","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Théo","lastname":"LYONNET","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Suman","lastname":"MAHESAN","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Paul","lastname":"MALLARD","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"},{"firstname":"Nathan","lastname":"MANG","subject":"Vinaver","room":1105,"speaker":"Karin Palmieri","group":"spade"}]
+[
+  {
+    "firstname": "Romain",
+    "lastname": "JEANNE",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Oualid",
+    "lastname": "JERIDI",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Anthony",
+    "lastname": "JIN",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Yusuf",
+    "lastname": "KAPLAN",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Basile",
+    "lastname": "KERESTEDJIAN",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Dany",
+    "lastname": "KHA",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Ilyès",
+    "lastname": "KHEROUAA",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Mark Way",
+    "lastname": "KONG",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Hugo",
+    "lastname": "KOTHE",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Cécile",
+    "lastname": "UNG",
+    "subject": "Anne",
+    "room": 1407,
+    "speaker": "Catherine Lascault",
+    "group": "pique"
+  },
+  {
+    "firstname": "Maud",
+    "lastname": "FAILLY",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Chahine",
+    "lastname": "KHETIB",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Vladislav",
+    "lastname": "SENECHAL",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Ludovic",
+    "lastname": "VIELLARD",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Tom",
+    "lastname": "VIGNAUD",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Olivier",
+    "lastname": "WANG",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Baptiste",
+    "lastname": "XEMARD",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Caull",
+    "lastname": "YANG",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Samuel",
+    "lastname": "YANO-MPOYO",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Romain",
+    "lastname": "YEROLYMOS",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Adam",
+    "lastname": "ZEH",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Eric",
+    "lastname": "ZOU",
+    "subject": "Brecht",
+    "room": 3107,
+    "speaker": "Dominique Soula",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Kevin",
+    "lastname": "ABD EL MESSIH",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Rémy",
+    "lastname": "ABDOUL MAZIDOU",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Fahira",
+    "lastname": "ABDOULALIME",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Eva",
+    "lastname": "ABDOULHAKIME",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Jade",
+    "lastname": "ABID",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Yassin",
+    "lastname": "AHMED MOHAMED ALI",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Alexis",
+    "lastname": "ALVES",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Nicolas",
+    "lastname": "ANGELI",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Julien",
+    "lastname": "ARCHAMBAULT",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Alperen",
+    "lastname": "ARIK",
+    "subject": "Crimp",
+    "room": 112,
+    "speaker": "Mahaut Rabattu",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Louis",
+    "lastname": "BATISSE",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Camille",
+    "lastname": "CARBASSE",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Khalid",
+    "lastname": "EL FTOUH",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Tristan",
+    "lastname": "GRIZON",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Arthur",
+    "lastname": "JOSSEAUME",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Galaad",
+    "lastname": "KUHN-BERNARD",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Romain",
+    "lastname": "LOUIS",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Yanis",
+    "lastname": "MALOU",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Hugo",
+    "lastname": "MARTIN",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Ajanan",
+    "lastname": "NAVENDRAN",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Thomas",
+    "lastname": "RIOTTE",
+    "subject": "Danis",
+    "room": 114,
+    "speaker": "Claudie Guillot",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Lina",
+    "lastname": "BRAHMI",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Annabelle",
+    "lastname": "BROUET",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Viviane",
+    "lastname": "BUI",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Jonathan",
+    "lastname": "FOMENOU",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Arthur",
+    "lastname": "FORTIN",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Imad",
+    "lastname": "GAMOUH",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Pierre",
+    "lastname": "GERVAIS",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Valentin",
+    "lastname": "GIARDI",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Cédric",
+    "lastname": "GIBERT",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Nathan",
+    "lastname": "GILLOTIN",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Arsène",
+    "lastname": "GLASSON",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Omid",
+    "lastname": "GOLYANI",
+    "subject": "Duras",
+    "room": 1401,
+    "speaker": "Diane Calma",
+    "group": "pique"
+  },
+  {
+    "firstname": "Adel",
+    "lastname": "ABID",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Romain",
+    "lastname": "ALVES FERREIRA",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Ayman",
+    "lastname": "CHOUKAR",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Tilad",
+    "lastname": "CHRAITEH",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Ryad",
+    "lastname": "HAMZAOUI",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "William",
+    "lastname": "JODAR",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Yanis",
+    "lastname": "KARA",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Matéo",
+    "lastname": "LANGLET",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Julien",
+    "lastname": "LAVRARD-MEYER",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Meriam",
+    "lastname": "NAAS",
+    "subject": "Feydeau",
+    "room": 115,
+    "speaker": "Denis Bouvier d'Yvoire",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Farah",
+    "lastname": "EL KADDOURI",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Sarah",
+    "lastname": "EL OUAFI",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Camille",
+    "lastname": "FAHY",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Arthur",
+    "lastname": "KALUKIN",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Tom",
+    "lastname": "LALIEU",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Dylan",
+    "lastname": "LE PLADEC",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Yacine",
+    "lastname": "LEBKIRI",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Nathan",
+    "lastname": "LECOIN",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "François",
+    "lastname": "LEHMANN-GRIMALDI",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Margot",
+    "lastname": "UTRERA",
+    "subject": "Goldoni",
+    "room": 1103,
+    "speaker": "Ellen Huynh Thien Duc",
+    "group": "pique"
+  },
+  {
+    "firstname": "Johan",
+    "lastname": "SENTHURAN",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Serge-Olivier",
+    "lastname": "SEUTCHEU TCHAMABE",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Kamil",
+    "lastname": "SINACEUR",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Simratpal",
+    "lastname": "SINGH",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Corentin",
+    "lastname": "SOULIGNAC--THOMINET",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Matthieu",
+    "lastname": "SOUSA FERREIRA",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Ugo",
+    "lastname": "STRIPPE",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Kader",
+    "lastname": "TANDIA",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Kézian",
+    "lastname": "TAPIE",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Michaël",
+    "lastname": "TASDEMIR",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Adnan",
+    "lastname": "TAZANI LOUMISSI",
+    "subject": "Guitry",
+    "room": 3103,
+    "speaker": "Benoît Lepecq",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Agathe",
+    "lastname": "GERBIER",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Taïssia",
+    "lastname": "GINOT",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Tiani",
+    "lastname": "HAPPI",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Jean-Antoine",
+    "lastname": "MARIANI",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Florian",
+    "lastname": "MARQUES",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Aurélien",
+    "lastname": "MARTY",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Nicolas",
+    "lastname": "MATIAS",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Raphaël",
+    "lastname": "MAUFROY",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Guillaume",
+    "lastname": "MECENE",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Soheil",
+    "lastname": "MERHI",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Selyan",
+    "lastname": "MEYER",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Méa",
+    "lastname": "VITTOT",
+    "subject": "Hugo",
+    "room": 2205,
+    "speaker": "Camille Rémy",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Saif",
+    "lastname": "MOHAMMAD",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Louka",
+    "lastname": "MORANDI",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Esteban",
+    "lastname": "NABONNE",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Erwann",
+    "lastname": "NANOU",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Nicolas",
+    "lastname": "NASO",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Mikaël",
+    "lastname": "NAVARRE",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Cheikh",
+    "lastname": "N'DIAYE",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Calvin",
+    "lastname": "NGUYEN",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Tom",
+    "lastname": "NGUYEN",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Gaya",
+    "lastname": "OUCHENE",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Timothy",
+    "lastname": "OUPINDRIN",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Gauthier",
+    "lastname": "PAGET",
+    "subject": "Koltes",
+    "room": 2207,
+    "speaker": "Tristan Rivière",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Lucie",
+    "lastname": "HARLET",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Charlotte",
+    "lastname": "HERNU",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Mathilde",
+    "lastname": "HOCDE",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Clément",
+    "lastname": "PAILLARD",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Luca",
+    "lastname": "PALAYSI",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Bastien",
+    "lastname": "PANVERT",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Rayan",
+    "lastname": "PAUL",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Happi",
+    "lastname": "PELAP",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Johan",
+    "lastname": "PETIT",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Son",
+    "lastname": "PHAM DANG",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Tan",
+    "lastname": "PHAM NGOC",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Damien",
+    "lastname": "PHILIPPE",
+    "subject": "Labiche",
+    "room": 3051,
+    "speaker": "Enora Etrillard",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Alexian",
+    "lastname": "PLANCKE",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Matthieu",
+    "lastname": "POLY",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Cédric",
+    "lastname": "PRÉTET",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Jovan",
+    "lastname": "RAHME",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Théo",
+    "lastname": "REVELANT",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Baptiste",
+    "lastname": "RIBEYROL",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Arnaud",
+    "lastname": "RITOUX",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Julien",
+    "lastname": "ROAN",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Pierre-Louis",
+    "lastname": "ROIG",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Yann",
+    "lastname": "ROSCOULET",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Pierre",
+    "lastname": "VIE",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Selma",
+    "lastname": "ZINE-EDDINE",
+    "subject": "Lagarce",
+    "room": 3053,
+    "speaker": "Madeleine Mainier",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Anaelle",
+    "lastname": "MARIETTE",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Sophie",
+    "lastname": "PAN",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Alitina",
+    "lastname": "RATSIMBAZAFY",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Paul",
+    "lastname": "ROUFFI",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Achille",
+    "lastname": "ROUILLARD",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Baptiste",
+    "lastname": "ROZAN",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Lilian",
+    "lastname": "SAULOUP",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Quentin",
+    "lastname": "SAVITCH",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Kenny",
+    "lastname": "SAVIVANH",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Nathan",
+    "lastname": "SCHARFMANN",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Enzo",
+    "lastname": "SE CHAO",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Jordan",
+    "lastname": "SELLAM",
+    "subject": "Marivaux",
+    "room": 3101,
+    "speaker": "Antoine Cafaro",
+    "group": "carreau"
+  },
+  {
+    "firstname": "Ghali",
+    "lastname": "CHANNAWI",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Jéremy",
+    "lastname": "CHEN",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Lucas",
+    "lastname": "CLÉMENS",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Romain",
+    "lastname": "COLOMBIÉ",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Gaspard",
+    "lastname": "COULY",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Guillaume",
+    "lastname": "CURTIS",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Yassine",
+    "lastname": "DAVALI",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Dany",
+    "lastname": "DE MELO",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Martin",
+    "lastname": "DEGUEURCE",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Emilie",
+    "lastname": "TAUSKY",
+    "subject": "Moliere",
+    "room": 163,
+    "speaker": "Florence Tosi",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Tasnim",
+    "lastname": "CHARIFFOU",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Morgane",
+    "lastname": "CORNEAU",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Jeanne",
+    "lastname": "DUMOULIN",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Louis",
+    "lastname": "HAMEL",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Théo",
+    "lastname": "HAMON",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Kérien",
+    "lastname": "HARTWEG",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Jeremy",
+    "lastname": "HENG",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Nicolas",
+    "lastname": "HOUDART",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Yassine",
+    "lastname": "HOUMIR",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Hugo",
+    "lastname": "HUCHEDE",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Matthieu",
+    "lastname": "HULOT",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Gabriel",
+    "lastname": "JACQUEMIN",
+    "subject": "Mouawad",
+    "room": 1405,
+    "speaker": "Blaise Buchsbaum",
+    "group": "pique"
+  },
+  {
+    "firstname": "Brice",
+    "lastname": "ARMAND",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Gautier",
+    "lastname": "ARSON",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Aeven",
+    "lastname": "AUGUSTIN",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Antoine",
+    "lastname": "AVERLAND",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Yassine",
+    "lastname": "AZMI",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Matthieu",
+    "lastname": "AZZOUN",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Prince",
+    "lastname": "BAYA",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Matteo",
+    "lastname": "BEGHELLI",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Rayan",
+    "lastname": "BELDI",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Gémaël",
+    "lastname": "BELROSE",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Alexandre",
+    "lastname": "BERTHELOT",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Ana",
+    "lastname": "SERRA ALVES",
+    "subject": "Navarro",
+    "room": 113,
+    "speaker": "Désirée Olmi",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Raphael",
+    "lastname": "FAUCONNIER",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Manon",
+    "lastname": "GUIRAUD",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Mathilde",
+    "lastname": "GUYOT",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Aïssatou",
+    "lastname": "KEITA",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Juliette",
+    "lastname": "LEPROUST",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Lila",
+    "lastname": "RAZANI",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Manon",
+    "lastname": "REBIÈRE",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Baptiste",
+    "lastname": "RICHARD",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Clement",
+    "lastname": "SAINTE-ROSE",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Julie",
+    "lastname": "TESSON",
+    "subject": "Pommerat",
+    "room": 3203,
+    "speaker": "Guillaume Delalandre",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Yasminah",
+    "lastname": "ALOUACHE--SAINZ",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Ambrine",
+    "lastname": "ARBAOUI",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Alexia",
+    "lastname": "BARBIER",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Florian",
+    "lastname": "BIGOTTEAU",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Baptiste",
+    "lastname": "BLANCHET",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Axel",
+    "lastname": "BLOIS",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Savio",
+    "lastname": "BOISSINOT",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Owen",
+    "lastname": "BRAUX",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Adam",
+    "lastname": "BRAVANT",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Dinh Thong",
+    "lastname": "BUI",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Erwan",
+    "lastname": "BUINO",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Lylian",
+    "lastname": "CARON",
+    "subject": "Richter",
+    "room": 164,
+    "speaker": "Catherine Fourty",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Victor",
+    "lastname": "DUMANOIS",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "DUONG",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Lucas",
+    "lastname": "DUPLANT",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Thomas",
+    "lastname": "DURAND",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Ismaël",
+    "lastname": "EL HAIMADI",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Nathan",
+    "lastname": "EVRARD",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Kévin",
+    "lastname": "FACH",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Emile",
+    "lastname": "FANJUL",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Mathieu",
+    "lastname": "FARRE",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Terence",
+    "lastname": "FERNANDES",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Noé",
+    "lastname": "PAUMELLE",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Lily-Rose",
+    "lastname": "TONOLINI",
+    "subject": "Sales",
+    "room": 1307,
+    "speaker": "Elsa Goulley",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Pauline",
+    "lastname": "ROCHER",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Louise",
+    "lastname": "ROULAND",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Inès",
+    "lastname": "SAADI",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Kim",
+    "lastname": "TESSIER",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Bilel",
+    "lastname": "TKITEK",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Amine",
+    "lastname": "TLAGHI",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Mohamed-Ali",
+    "lastname": "TLILI",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Titouan",
+    "lastname": "TONNELLIER",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Ismail",
+    "lastname": "TORRES",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Victor",
+    "lastname": "UNTEREINER",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Chloé",
+    "lastname": "VIDIGUEIRA",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Lorenzo",
+    "lastname": "VIDY",
+    "subject": "Sand",
+    "room": 3105,
+    "speaker": "Anne Barlind",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Terence",
+    "lastname": "GOMEZ",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Thibault",
+    "lastname": "GOUGEON",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Louis",
+    "lastname": "GRANGE",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Maxence",
+    "lastname": "GREVET",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Alexandre",
+    "lastname": "GROSDIDIER",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Hippolyte",
+    "lastname": "GUASP",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Ryan",
+    "lastname": "GUENAOUI",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Amaury",
+    "lastname": "GUÉRIF",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Yassine",
+    "lastname": "HACHMI",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Adam",
+    "lastname": "HADJEB",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Clarisse",
+    "lastname": "TUY",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Minh Quang",
+    "lastname": "VU",
+    "subject": "Shakespeare",
+    "room": 1403,
+    "speaker": "Marine Tirouet",
+    "group": "pique"
+  },
+  {
+    "firstname": "Ellinor",
+    "lastname": "BOISSELET",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Hadjer",
+    "lastname": "BOUCHAMA",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Pietro",
+    "lastname": "CAMPAGNA",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Hadrien",
+    "lastname": "DEJONGHE",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Danylo",
+    "lastname": "DEMBITSKYI",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Amara",
+    "lastname": "DIARRA",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Alex",
+    "lastname": "DIAZ",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Bilal",
+    "lastname": "DIRIR",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Quentin",
+    "lastname": "DOMON",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Pablo",
+    "lastname": "DOYNEL DE LA SAUSSERIE",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Arthur",
+    "lastname": "DREUILHET",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Leo",
+    "lastname": "DUBOS",
+    "subject": "Strindberg",
+    "room": 1305,
+    "speaker": "Nelly Fantoni",
+    "group": "coeur"
+  },
+  {
+    "firstname": "Mosaab",
+    "lastname": "ABOUCHOUKAIR",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Adam",
+    "lastname": "AMERZAG",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Ali",
+    "lastname": "ANTOSZCZYK",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Julien",
+    "lastname": "ARAB",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Louis",
+    "lastname": "CLECH",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Victor",
+    "lastname": "CRETAL",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "William",
+    "lastname": "DAMBO",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Flore",
+    "lastname": "DAMBREVILLE",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Hugo",
+    "lastname": "DAUVERGNE",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Théa",
+    "lastname": "DORRYHÉE",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Timothée",
+    "lastname": "DUMAS",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Reis",
+    "lastname": "TITOUAMANE",
+    "subject": "Tchekhov",
+    "room": 3201,
+    "speaker": "Laurine Catillon",
+    "group": "trèfle"
+  },
+  {
+    "firstname": "Chris",
+    "lastname": "LELEMBE",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Hugo",
+    "lastname": "LEMETAIS",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Nolan",
+    "lastname": "LESTOCLET--YANSENS",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Nicolas",
+    "lastname": "LIAO",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Alexandre",
+    "lastname": "LIN",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Mohamed A",
+    "lastname": "LMAKROUD",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Rémi",
+    "lastname": "LOCQUETTE",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Adrien",
+    "lastname": "LOPOUKHINE",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Théo",
+    "lastname": "LYONNET",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Suman",
+    "lastname": "MAHESAN",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Paul",
+    "lastname": "MALLARD",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  },
+  {
+    "firstname": "Nathan",
+    "lastname": "MANG",
+    "subject": "Vinaver",
+    "room": 1105,
+    "speaker": "Karin Palmieri",
+    "group": "pique"
+  }
+]
