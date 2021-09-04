@@ -37,10 +37,6 @@ nav #mobile-menu.open {
     @apply text-center text-3xl font-semibold text-white m-5
 }
 
-.event {
-    @apply flex flex-col p-3 space-y-5 rounded-xl border border-black bg-white shadow-md mb-4
-}
-
 .event span {
     @apply text-base
 }
@@ -70,8 +66,4 @@ nav #mobile-menu.open {
 }
 .radio input:checked ~ label {
     @apply bg-gray-800 text-white
-}
-
-.hidden {
-    display: none !important;
 }
